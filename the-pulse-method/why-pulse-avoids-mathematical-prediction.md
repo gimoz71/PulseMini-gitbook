@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Why Pulse Avoids Mathematical Prediction
 
 Pulse deliberately avoids using mathematical prediction models such as regression, econometrics, or statistical forecasting. Not because mathematics is “wrong” — but because **markets consistently violate the assumptions these models require to function reliably**.

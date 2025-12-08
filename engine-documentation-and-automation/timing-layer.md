@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Timing Layer
 
 The Timing Layer captures **short-term behaviour**, **micro-structure**, and the **immediate rhythm** of price movement.

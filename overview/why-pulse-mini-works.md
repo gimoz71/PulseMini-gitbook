@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Why Pulse Mini Works
 
 Pulse Mini is not another indicator. It is a reorganised way of reading the market. Instead of adding complexity, it removes noise and highlights only what truly matters.

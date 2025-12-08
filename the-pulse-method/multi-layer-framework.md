@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Multi-Layer Framework
 
 Pulse Mini organises market behaviour into **three simplified structural layers**. Each layer captures a different dimension of price movement, and together they form the backbone of Pulse’s behavioural reading.

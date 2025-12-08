@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Engine-as-a-Service
 
 This section explains how Pulse fits into the broader ecosystem: technical integrations, developer usage, external automations, and why the Pulse architecture scales across systems.

@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Made with Passion by WaveLabs
 
 Information about the project, the team, and the philosophy behind Pulse.

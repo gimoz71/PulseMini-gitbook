@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # What Pulse Mini Is
 
 ### A Lightweight Directional Engine

@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Cross-Crypto Pairs and Structural Integrity
 
 Pulse Mini is designed to read **structural behaviour** — trend, phase, and timing — in the cleanest possible way. Cross-crypto pairs introduce distortions that make this reading less stable, less consistent, and often unreliable. For this reason, cross pairs are **not part of the core Pulse environment**.

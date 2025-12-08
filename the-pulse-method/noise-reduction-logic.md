@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Noise Reduction Logic
 
 Most price movements are noise — small fluctuations, unstable micro-swings and reactions that do not reflect meaningful structure. Traditional indicators often react to this noise, creating misleading or low-value signals.

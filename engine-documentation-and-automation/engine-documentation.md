@@ -1,4 +1,5 @@
 ---
+icon: hexagon-nodes-bolt
 layout:
   width: default
   title:

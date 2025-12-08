@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Where Pulse Mini Fits Into This Framework
 
 Pulse Mini is the simplest, cleanest, and most accessible expression of the Pulse Method. It applies behavioural measurement without predictive components and focuses entirely on structural clarity.

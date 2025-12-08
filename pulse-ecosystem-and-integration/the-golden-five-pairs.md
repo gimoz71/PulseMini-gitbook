@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # The Golden Five Pairs
 
 Within the Pulse Method, one principle is constant: **clarity comes from choosing markets that express clean behaviour.**

@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Who It Is For
 
 Pulse Mini is designed for crypto traders who want a clearer way to understand what the market is doing without relying on dozens of indicators or complex strategies.

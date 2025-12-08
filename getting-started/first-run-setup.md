@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # First-Run Setup
 
 When you add Pulse Mini to your chart for the first time, the engine loads with a default configuration that works for most traders. There are only a few key steps to check before you begin using it effectively.

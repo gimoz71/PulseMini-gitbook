@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Learn
 
 Pulse Mini is built to read what the market is _actually_ doing — not what traditional indicators assume, predict or interpret through formulas.

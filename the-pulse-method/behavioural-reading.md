@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Behavioural Reading
 
 Pulse does not use regression, statistical forecasting, or econometric modeling. Instead, it reads markets through **behaviour** — the most direct, reliable, and observable form of market information.

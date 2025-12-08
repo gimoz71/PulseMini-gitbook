@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Phase Layer
 
 The Phase Layer reveals **how** the market is moving within its structure. While the Trend Layer shows direction, the Phase Layer shows the **quality** of that movement.

@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # How to Use This Guide
 
 This guide is designed to help you understand Pulse Mini step by step.

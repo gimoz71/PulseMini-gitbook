@@ -1,15 +1,15 @@
 # Table of contents
 
-## Welcome & Overview
+## Overview
 
-* [Welcome](README.md)
-* [Why Pulse Mini Works](welcome-and-overview/why-pulse-mini-works.md)
-* [What Pulse Mini Is](welcome-and-overview/what-pulse-mini-is.md)
-* [Why Pulse Is Not a Bot](welcome-and-overview/why-pulse-is-not-a-bot.md)
-* [Who It Is For](welcome-and-overview/who-it-is-for.md)
-* [What Pulse Mini Does](welcome-and-overview/what-pulse-mini-does.md)
-* [What Pulse Mini Does Not Do](welcome-and-overview/what-pulse-mini-does-not-do.md)
-* [How to Use This Guide](welcome-and-overview/how-to-use-this-guide.md)
+* [Introduction](README.md)
+* [Why Pulse Mini Works](overview/why-pulse-mini-works.md)
+* [What Pulse Mini Is](overview/what-pulse-mini-is.md)
+* [Why Pulse Is Not a Bot](overview/why-pulse-is-not-a-bot.md)
+* [Who It Is For](overview/who-it-is-for.md)
+* [What Pulse Mini Does](overview/what-pulse-mini-does.md)
+* [What Pulse Mini Does Not Do](overview/what-pulse-mini-does-not-do.md)
+* [How to Use This Guide](overview/how-to-use-this-guide.md)
 
 ## Getting Started
 
@@ -64,17 +64,17 @@
 
 ## Engine Documentation & Automation
 
-* [Engine Documentation](engine-documentation-and-automation/engine-documentation/README.md)
-  * [Market Context](engine-documentation-and-automation/engine-documentation/market-context.md)
-  * [Trend Layer](engine-documentation-and-automation/engine-documentation/trend-layer.md)
-  * [Phase Layer](engine-documentation-and-automation/engine-documentation/phase-layer.md)
-  * [Timing Layer](engine-documentation-and-automation/engine-documentation/timing-layer.md)
-  * [Trigger Logic](engine-documentation-and-automation/engine-documentation/trigger-logic.md)
-  * [Decision Matrix](engine-documentation-and-automation/engine-documentation/decision-matrix.md)
-  * [External Automation](engine-documentation-and-automation/engine-documentation/external-automation.md)
-  * [Payload Examples](engine-documentation-and-automation/engine-documentation/payload-examples.md)
-  * [Technical Notes](engine-documentation-and-automation/engine-documentation/technical-notes.md)
-  * [Important Note](engine-documentation-and-automation/engine-documentation/important-note.md)
+* [Engine Documentation](engine-documentation-and-automation/engine-documentation.md)
+* [Market Context](engine-documentation-and-automation/market-context.md)
+* [Trend Layer](engine-documentation-and-automation/trend-layer.md)
+* [Phase Layer](engine-documentation-and-automation/phase-layer.md)
+* [Timing Layer](engine-documentation-and-automation/timing-layer.md)
+* [Trigger Logic](engine-documentation-and-automation/trigger-logic.md)
+* [Decision Matrix](engine-documentation-and-automation/decision-matrix.md)
+* [External Automation](engine-documentation-and-automation/external-automation.md)
+* [Payload Examples](engine-documentation-and-automation/payload-examples.md)
+* [Technical Notes](engine-documentation-and-automation/technical-notes.md)
+* [Important Note](engine-documentation-and-automation/important-note.md)
 
 ## About Pulse
 

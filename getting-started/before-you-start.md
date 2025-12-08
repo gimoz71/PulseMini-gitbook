@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Before You Start
 
 Pulse Mini runs directly on TradingView. You do **not** need additional software, complex installations, or special technical knowledge.

@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Technical Notes
 
 Pulse Mini is not built on classical indicators or oscillators. It does not rely on:

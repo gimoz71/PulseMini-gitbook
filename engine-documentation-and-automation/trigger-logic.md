@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Trigger Logic
 
 Pulse Mini does **not** generate signals using traditional indicators, fixed rules, or mechanical triggers. Instead, it waits for a **natural alignment** across its three structural layers:

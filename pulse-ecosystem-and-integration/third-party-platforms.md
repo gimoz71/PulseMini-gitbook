@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Third-Party Platforms
 
 Pulse engines operate inside a clean, structured environment. While the method is independent and self-contained, external platforms play an important role in completing the trading workflow — especially for alerts and automation.

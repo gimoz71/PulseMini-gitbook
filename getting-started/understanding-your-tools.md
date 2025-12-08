@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Understanding Your Tools
 
 Pulse Mini works on top of TradingView and focuses on reading the market with clarity and consistency. It does not execute trades, manage positions, or take autonomous actions. This separation is intentional — Pulse Mini is designed to **think**, not to act.

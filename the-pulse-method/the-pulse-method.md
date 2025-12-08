@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # The Pulse Method
 
 Pulse is not an indicator. It is a **method** — a structured way of reading markets based on behaviour, clarity and layered interpretation.

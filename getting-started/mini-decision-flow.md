@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Mini Decision Flow
 
 Pulse Mini does not rely on rigid rules or mechanical triggers. Instead, it reads how the **Trend**, **Phase**, and **Timing** layers interact in real time and highlights environments where structure is naturally clearer.

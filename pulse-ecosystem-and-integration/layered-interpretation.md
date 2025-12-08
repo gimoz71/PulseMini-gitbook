@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Layered Interpretation
 
 The Pulse Method does not analyse the market as a single block. It separates behaviour into layers so that each dimension of structure becomes readable on its own — and even more powerful when combined.

@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Measurement over Forecasting
 
 Pulse is built on a principle that has survived every market regime, volatility shock, and technological cycle: **Measurement is durable. Forecasting is fragile**.
@@ -50,7 +54,7 @@ Measurement is:
 * robust to volatility shocks
 * consistent across assets and timeframes
 
-When markets mutate, measurement continues to work because it adjusts instantly to the present structure.&#x20;
+When markets mutate, measurement continues to work because it adjusts instantly to the present structure.
 
 Forecasting must be rebuilt constantly — and usually fails before that.
 

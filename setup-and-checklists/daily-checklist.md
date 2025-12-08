@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Daily Checklist
 
 Pulse Mini works best when used inside a stable, repeatable routine. This daily checklist helps you begin each session with clarity and maintain consistency throughout your workflow.

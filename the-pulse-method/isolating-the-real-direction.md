@@ -1,3 +1,7 @@
+---
+icon: hexagon-nodes-bolt
+---
+
 # Isolating the Real Direction
 
 Pulse does not calculate trends using moving averages, smoothing formulas, regressions, or indicator overlays. Instead, it isolates **real market direction** by observing how the price behaves structurally.
