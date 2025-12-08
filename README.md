@@ -1,5 +1,5 @@
 ---
-icon: caret-right
+icon: angle-right
 ---
 
 # Introduction
