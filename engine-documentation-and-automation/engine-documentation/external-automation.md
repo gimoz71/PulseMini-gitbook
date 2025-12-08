@@ -118,12 +118,12 @@ Pulse provides:
 
 * structural intelligence
 * clean behaviour
-* non-repainting context&#x20;
+* non-repainting context
 
 Automation tools provide:
 
 * execution
 * order management
-* workflow handling&#x20;
+* workflow handling
 
 Together, they form a modular system where Pulse reads, and your tools execute.

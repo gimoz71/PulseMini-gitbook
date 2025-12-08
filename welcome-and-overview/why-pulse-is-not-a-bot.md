@@ -71,7 +71,7 @@ It does the thinking — not the acting.
 
 Pulse follows a core principle: **“Engines read. Traders decide.”**
 
-Even in automated systems:&#x20;
+Even in automated systems:
 
 **Pulse reads → TradingView alerts → automation layer executes (optional)**
 

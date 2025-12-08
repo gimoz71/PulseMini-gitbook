@@ -1,32 +1,39 @@
 # Table of contents
 
-* [Introduction](README.md "INTRODUCTION")
-  * [Why Pulse Mini Works](introduction/why-pulse-mini-works.md)
-  * [What Pulse Mini Is](introduction/what-pulse-mini-is.md)
-  * [Why Pulse Is Not a Bot](introduction/why-pulse-is-not-a-bot.md)
-  * [Who It Is For](introduction/who-it-is-for.md)
-  * [What Pulse Mini Does](introduction/what-pulse-mini-does.md)
-  * [What Pulse Mini Does Not Do](introduction/what-pulse-mini-does-not-do.md)
-  * [How to Use This Guide](introduction/how-to-use-this-guide.md)
-* [Getting Started](geting-started/README.md "GETTING STARTED")
-  * [Before You Start](geting-started/before-you-start.md)
-  * [First-Run Setup](geting-started/first-run-setup.md)
-  * [Reading Your First Signals](geting-started/reading-your-first-signals.md)
-  * [Understanding Your Tools](geting-started/understanding-your-tools.md)
-  * [Learn](geting-started/learn.md)
-  * [Mini Decision Flow](geting-started/mini-decision-flow.md)
-* [The Pulse Method](the-pulse-method/README.md "THE PULSE METHOD")
-  * [How Pulse Interprets Market Structure](the-pulse-method/how-pulse-interprets-market-structure.md)
-  * [Multi-Layer Framework](the-pulse-method/multi-layer-framework.md)
-  * [The Pulse Method](the-pulse-method/the-pulse-method.md)
-  * [Behavioural Reading](the-pulse-method/behavioural-reading.md)
-  * [Understanding Market Behaviour](the-pulse-method/understanding-market-behaviour.md)
-  * [Why Pulse Focuses on Behaviour](the-pulse-method/why-pulse-focuses-on-behaviour.md)
-  * [Isolating the Real Direction](the-pulse-method/isolating-the-real-direction.md)
-  * [Why Pulse Avoids Mathematical Prediction](the-pulse-method/why-pulse-avoids-mathematical-prediction.md)
-  * [Measurement over Forecasting](the-pulse-method/measurement-over-forecasting.md)
-  * [Noise Reduction Logic](the-pulse-method/noise-reduction-logic.md)
-  * [Why the Pulse Method Matters](the-pulse-method/why-the-pulse-method-matters.md)
+## Welcome & Overview
+
+* [Welcome](README.md)
+* [Why Pulse Mini Works](welcome-and-overview/why-pulse-mini-works.md)
+* [What Pulse Mini Is](welcome-and-overview/what-pulse-mini-is.md)
+* [Why Pulse Is Not a Bot](welcome-and-overview/why-pulse-is-not-a-bot.md)
+* [Who It Is For](welcome-and-overview/who-it-is-for.md)
+* [What Pulse Mini Does](welcome-and-overview/what-pulse-mini-does.md)
+* [What Pulse Mini Does Not Do](welcome-and-overview/what-pulse-mini-does-not-do.md)
+* [How to Use This Guide](welcome-and-overview/how-to-use-this-guide.md)
+
+## Getting Started
+
+* [Get Started](getting-started/get-started.md)
+* [Before You Start](getting-started/before-you-start.md)
+* [First-Run Setup](getting-started/first-run-setup.md)
+* [Reading Your First Signals](getting-started/reading-your-first-signals.md)
+* [Understanding Your Tools](getting-started/understanding-your-tools.md)
+* [Learn](getting-started/learn.md)
+* [Mini Decision Flow](getting-started/mini-decision-flow.md)
+
+## The Pulse Method
+
+* [How Pulse Interprets Market Structure](the-pulse-method/how-pulse-interprets-market-structure.md)
+* [Multi-Layer Framework](the-pulse-method/multi-layer-framework.md)
+* [The Pulse Method](the-pulse-method/the-pulse-method.md)
+* [Behavioural Reading](the-pulse-method/behavioural-reading.md)
+* [Understanding Market Behaviour](the-pulse-method/understanding-market-behaviour.md)
+* [Why Pulse Focuses on Behaviour](the-pulse-method/why-pulse-focuses-on-behaviour.md)
+* [Isolating the Real Direction](the-pulse-method/isolating-the-real-direction.md)
+* [Why Pulse Avoids Mathematical Prediction](the-pulse-method/why-pulse-avoids-mathematical-prediction.md)
+* [Measurement over Forecasting](the-pulse-method/measurement-over-forecasting.md)
+* [Noise Reduction Logic](the-pulse-method/noise-reduction-logic.md)
+* [Why the Pulse Method Matters](the-pulse-method/why-the-pulse-method-matters.md)
 
 ## Pulse Ecosystem & Integration
 
@@ -55,19 +62,19 @@
 * [What Not to Do](setup-and-checklists/what-not-to-do.md)
 * [Settings – Alerts & Automation](setup-and-checklists/settings-alerts-and-automation.md)
 
-***
+## Engine Documentation & Automation
 
-* [Engine Documentation & Automation](engine-documentation/README.md "ENGINE DOCUMENTATION & AUTOMATION")
-  * [Market Context](engine-documentation/market-context.md)
-  * [Trend Layer](engine-documentation/trend-layer.md)
-  * [Phase Layer](engine-documentation/phase-layer.md)
-  * [Timing Layer](engine-documentation/timing-layer.md)
-  * [Trigger Logic](engine-documentation/trigger-logic.md)
-  * [Decision Matrix](engine-documentation/decision-matrix.md)
-  * [External Automation](engine-documentation/external-automation.md)
-  * [Payload Examples](engine-documentation/payload-examples.md)
-  * [Technical Notes](engine-documentation/technical-notes.md)
-  * [Important Note](engine-documentation/important-note.md)
+* [Engine Documentation](engine-documentation-and-automation/engine-documentation/README.md)
+  * [Market Context](engine-documentation-and-automation/engine-documentation/market-context.md)
+  * [Trend Layer](engine-documentation-and-automation/engine-documentation/trend-layer.md)
+  * [Phase Layer](engine-documentation-and-automation/engine-documentation/phase-layer.md)
+  * [Timing Layer](engine-documentation-and-automation/engine-documentation/timing-layer.md)
+  * [Trigger Logic](engine-documentation-and-automation/engine-documentation/trigger-logic.md)
+  * [Decision Matrix](engine-documentation-and-automation/engine-documentation/decision-matrix.md)
+  * [External Automation](engine-documentation-and-automation/engine-documentation/external-automation.md)
+  * [Payload Examples](engine-documentation-and-automation/engine-documentation/payload-examples.md)
+  * [Technical Notes](engine-documentation-and-automation/engine-documentation/technical-notes.md)
+  * [Important Note](engine-documentation-and-automation/engine-documentation/important-note.md)
 
 ## About Pulse
 

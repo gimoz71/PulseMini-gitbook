@@ -32,7 +32,7 @@ No internal settings need to be changed.
 ### Keep Your Chart Simple
 
 Pulse Mini is designed to give you a clean structural view.\
-&#x20; If your chart is overloaded with:
+If your chart is overloaded with:
 
 * indicators
 * drawings

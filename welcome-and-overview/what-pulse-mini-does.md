@@ -55,7 +55,7 @@ Pulse Mini supports decisions by:
 
 * simplifying interpretation
 * highlighting stable structure
-* removing emotional bias&#x20;
+* removing emotional bias
 * preventing over-trading
 * keeping you aligned with market context
 
