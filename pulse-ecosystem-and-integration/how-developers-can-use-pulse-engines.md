@@ -1,5 +1,5 @@
 ---
-icon: hexagon-nodes-bolt
+icon: angle-right
 ---
 
 # How Developers Can Use Pulse Engines
