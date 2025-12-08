@@ -1,4 +1,4 @@
-# Get Started
+# Getting Started
 
 This section guides you through your first steps with Pulse Mini: installation, setup, reading your first signals, and understanding the essential tools. It helps you become operational quickly and confidently.
 
@@ -29,26 +29,26 @@ To get the cleanest and most accurate first impression:
 
 {% stepper %}
 {% step %}
-### Open a recommended market
+#### Open a recommended market
 
 Choose one of the core high-liquidity crypto pairs:\
 BTC/USDT — ETH/USDT — XRP/USDT — SOL/USDT — BNB/USDT
 {% endstep %}
 
 {% step %}
-### Use a clean timeframe
+#### Use a clean timeframe
 
 Start with 1H, 2H, or 4H for the most stable structure.
 {% endstep %}
 
 {% step %}
-### Remove unnecessary indicators
+#### Remove unnecessary indicators
 
 Pulse Mini works with any chart setup, but too many tools reduce clarity. A clean chart shows the engine’s structure best.
 {% endstep %}
 
 {% step %}
-### Check that all layers are visible
+#### Check that all layers are visible
 
 Trend, Phase, and Timing should appear automatically.\
 If something looks off → refresh or toggle the indicator once.

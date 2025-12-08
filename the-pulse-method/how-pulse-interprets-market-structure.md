@@ -1,16 +1,12 @@
 # How Pulse Interprets Market Structure
 
-Here you will find the complete explanation of the Pulse Method: the behavioural and structural logic that powers the engine. This section provides the conceptual framework behind Pulse Mini’s accuracy and stability.
-
-***
-
 Pulse Mini reads the market through the lens of **real behaviour**, not through synthetic indicators or predictive formulas.
 
 Its interpretation is built on three foundational elements that appear in all liquid markets:
 
 * **Trend** → direction of movement
 * **Phase** → quality and organisation of movement
-* **Timing** → rhythm and micro-structure&#x20;
+* **Timing** → rhythm and micro-structure
 
 These layers work together to form a consistent structural map of the environment.
 
@@ -23,14 +19,14 @@ Traditional indicators often:
 * smooth price artificially
 * introduce lag
 * produce conflicting signals
-* react to noise instead of suppressing it&#x20;
+* react to noise instead of suppressing it
 
 Pulse Mini takes the opposite approach:
 
 * no smoothing
 * no oscillators
 * no regressions
-* no forecasts&#x20;
+* no forecasts
 
 Instead, it reads the _natural organisation of price_ as it unfolds.
 

@@ -7,7 +7,7 @@ Use this checklist once per week to recalibrate your workflow.
 
 {% stepper %}
 {% step %}
-### Review the Macro Trend (1D)
+#### Review the Macro Trend (1D)
 
 Start from the **daily timeframe**:
 
@@ -19,7 +19,7 @@ A clean macro trend supports clearer conditions on lower timeframes.
 {% endstep %}
 
 {% step %}
-### Evaluate the Weekly Phase
+#### Evaluate the Weekly Phase
 
 Determine the phase at the start of the new week:
 
@@ -31,7 +31,7 @@ Weeks beginning in compression often need extra caution.
 {% endstep %}
 
 {% step %}
-### Assess Market Stability
+#### Assess Market Stability
 
 Look for signs of instability:
 
@@ -44,7 +44,7 @@ Stable weeks show smoother transitions; unstable weeks demand discretion.
 {% endstep %}
 
 {% step %}
-### Check the Golden Five
+#### Check the Golden Five
 
 Review **BTC, ETH, XRP, SOL, BNB** on the **1H**–**4H** range.
 
@@ -58,7 +58,7 @@ If the Golden Five look unstable, reduce aggression.
 {% endstep %}
 
 {% step %}
-### Clean Your Charts
+#### Clean Your Charts
 
 Remove:
 
@@ -71,7 +71,7 @@ A clean chart improves objectivity and keeps your interpretation sharp.
 {% endstep %}
 
 {% step %}
-### Reset Your Rules
+#### Reset Your Rules
 
 Revisit your **Daily Checklist** to restore discipline:
 
@@ -83,7 +83,7 @@ This keeps your mental framework aligned with the method.
 {% endstep %}
 
 {% step %}
-### Plan Your Week
+#### Plan Your Week
 
 Based on macro direction + weekly phase + Golden Five structure:
 

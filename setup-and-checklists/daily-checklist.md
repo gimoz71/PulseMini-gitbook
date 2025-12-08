@@ -6,7 +6,7 @@ A full review takes less than two minutes.
 
 {% stepper %}
 {% step %}
-### Check the Trend
+#### Check the Trend
 
 Start on **1H or 4H** and verify:
 
@@ -18,7 +18,7 @@ If the trend is flat or conflicting, reduce aggression or wait.
 {% endstep %}
 
 {% step %}
-### Check the Phase
+#### Check the Phase
 
 Determine whether the market is:
 
@@ -30,7 +30,7 @@ Avoid compression zones and unstable mid-phases — these often lead to noise an
 {% endstep %}
 
 {% step %}
-### Check Timing Behaviour
+#### Check Timing Behaviour
 
 Timing should support the broader structure.
 
@@ -41,19 +41,19 @@ If timing contradicts trend or phase, step back.
 {% endstep %}
 
 {% step %}
-### Confirm the Symbol
+#### Confirm the Symbol
 
 Stay within the recommended markets, especially the **Golden Five**. They provide the cleanest structural reading.
 {% endstep %}
 
 {% step %}
-### Start from a Clear Timeframe
+#### Start from a Clear Timeframe
 
 Begin your session on **1H**, **2H**, and **4H.** Move to lower timeframes only if higher timeframes are clean and aligned.
 {% endstep %}
 
 {% step %}
-### Respect the Environment
+#### Respect the Environment
 
 If the three layers (Trend, Phase, Timing) are misaligned:
 
