@@ -6,7 +6,7 @@ icon: book
 
 Welcome to Pulse Mini. This section introduces the core idea behind the engine, what it does, what it does not do, and who it is designed for. Start here to understand the foundation and purpose of Pulse Mini.
 
-{% columns fullWidth="true" %}
+{% columns fullWidth="false" %}
 {% column width="50%" %}
 {% content-ref url="README (1).md" %}
 [README (1).md](<README (1).md>)
