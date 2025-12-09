@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Engine Documentation & aUTOMATION
+# Engine Documentation & Automation
 
 Pulse Mini is a simplified expression of the Pulse Market Engine. Its purpose is to provide a **clean, stable and non-repainting** interpretation of market behaviour through three core layers:
 
