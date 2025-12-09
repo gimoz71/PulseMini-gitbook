@@ -1,7 +1,5 @@
 # Setup Guide
 
-All setup and operational checklists live here: TradingView, 3Commas, alerts, automation, and daily/weekly routines. Use this section to ensure Pulse Mini runs consistently and correctly.
-
 ***
 
 Pulse Mini is most effective when used in markets and timeframes that naturally support clean structural behaviour.
