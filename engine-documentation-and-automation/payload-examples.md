@@ -6,7 +6,7 @@ Different tools require different payload structures. This chapter provides clea
 
 ### 3Commas Bots (Official TradingView “Custom Signal” Format)
 
-3Commas bots accept two extremely simple payloads.
+[3Commas](https://app.3commas.io/d?utm_source=referral\&utm_medium=cabinet\&c=tc2078885) bots accept two extremely simple payloads.
 
 Buy Signal:
 
