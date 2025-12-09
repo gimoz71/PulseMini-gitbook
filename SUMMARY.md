@@ -63,8 +63,6 @@
   * [Payload Examples](engine-documentation-and-automation/payload-examples.md)
   * [Technical Notes](engine-documentation-and-automation/technical-notes.md)
   * [Important Note](engine-documentation-and-automation/important-note.md)
-
-## About Pulse
-
-* [Made with Passion by WaveLabs](about-pulse/made-with-passion-by-wavelabs.md)
-* [Authors](about-pulse/authors.md)
+* [About Pulse](about-pulse/README.md "ABOUT PULSE")
+  * [Made with Passion by WaveLabs](about-pulse/made-with-passion-by-wavelabs.md)
+  * [Authors](about-pulse/authors.md)
