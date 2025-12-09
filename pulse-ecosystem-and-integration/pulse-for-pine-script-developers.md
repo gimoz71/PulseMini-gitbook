@@ -6,6 +6,8 @@ Because TradingView does not allow scripts to import one another, Pulse Mini is 
 
 Pulse Mini enhances your logic without interfering with it.
 
+***
+
 ### Why Pine Developers Use Pulse Mini
 
 Pulse Mini can improve almost any custom script by providing:
@@ -19,6 +21,8 @@ Pulse Mini can improve almost any custom script by providing:
 Instead of relying on MA crosses, RSI thresholds or arbitrary indicator conditions, Pulse Mini acts as a **structural validity check**.
 
 Your script keeps its logic. Pulse Mini tells you when the environment makes sense.
+
+***
 
 ### Practical Use-Cases for Pine Bots & Indicators
 
@@ -84,6 +88,8 @@ Pulse Mini can act as a pre-execution gate for:
 
 Your triggers stay the same. Pulse Mini makes them smarter.
 
+***
+
 ### Ghost Mode — Invisible Integration
 
 Many developers want Pulse Mini’s intelligence without affecting chart visuals.
@@ -97,6 +103,8 @@ Ghost Mode provides exactly that:
 * zero UI interference
 
 Pulse Mini runs silently while your script remains visually dominant.
+
+***
 
 ### Summary for Developers
 

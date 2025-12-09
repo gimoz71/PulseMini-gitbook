@@ -4,6 +4,8 @@ Pulse does not calculate trends using moving averages, smoothing formulas, regre
 
 Direction is not a formula. Direction is a behaviour.
 
+***
+
 ### Direction Is Something You Observe — Not Something You Compute
 
 Traditional indicators try to _calculate_ the trend:
@@ -17,6 +19,8 @@ Traditional indicators try to _calculate_ the trend:
 But all these methods distort the underlying behaviour. They smooth, average, or reshape the price, removing the very structure you want to read.
 
 Pulse avoids this by observing direction **as expressed naturally by price**.
+
+***
 
 ### How Pulse Identifies Direction
 
@@ -39,6 +43,8 @@ This creates a reading that is:
 * non-repainting
 * cross-timeframe consistent
 
+***
+
 ### Why Pulse Avoids Moving Averages
 
 Moving averages:
@@ -50,6 +56,8 @@ Moving averages:
 * break under volatility shifts
 
 They assume behaviour is smooth and predictable — which crypto rarely is. Pulse prefers **direct observation** because it preserves the integrity of the structure.
+
+***
 
 ### Direction as Behaviour, Not Signal
 
@@ -65,6 +73,8 @@ Direction defines:
 It is the foundation on which Phase and Timing add depth.
 
 Pulse does not use direction to forecast the next move. It uses direction to understand the **current** environment.
+
+***
 
 ### When Direction Breaks Down
 
@@ -84,6 +94,8 @@ This prevents:
 * trend chasing
 * reactive mistakes
 * misreading noisy environments
+
+***
 
 ### Why This Matters for Pulse Mini
 

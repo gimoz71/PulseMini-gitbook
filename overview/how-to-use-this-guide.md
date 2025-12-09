@@ -9,6 +9,8 @@ You can:
 
 Each chapter serves a specific purpose in the learning process.
 
+***
+
 ### What You Will Find Inside the Guide
 
 #### Getting Started
@@ -68,11 +70,15 @@ This section explores:
 
 This is the technical backbone of Pulse Mini.
 
+***
+
 ### How to Navigate the Guide
 
 * You don't need to memorise anything.
 * You can return to any section at any moment.
 * Pulse Mini is straightforward; the guide simply _supports your workflow_.
+
+***
 
 ### What This Guide Is Not
 
@@ -84,6 +90,8 @@ It is **not**:
 * a bot configuration manual
 
 It is a **reading and workflow guide** that helps you integrate Pulse Mini into your own trading approach.
+
+***
 
 ### The Goal of This Guide
 

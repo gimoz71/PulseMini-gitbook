@@ -11,6 +11,8 @@ Layered interpretation allows you to:
 
 This is what makes Pulse engines intuitive: each layer expresses one type of information, and clarity emerges from their interaction rather than from any single element.
 
+***
+
 ### How Layered Interpretation Works
 
 Pulse Mini uses three simplified layers:
@@ -33,6 +35,8 @@ Each layer answers a different question:
 * **Phase:** “How is it moving?”
 * **Timing:** “Is the moment stable or unstable?”
 
+***
+
 ### Why Layers Matter
 
 Relying on a single variable — a trend indicator, an oscillator, a volatility measure — makes interpretation fragile. Layers solve this by creating a structural hierarchy:
@@ -42,6 +46,8 @@ Relying on a single variable — a trend indicator, an oscillator, a volatility 
 * **Timing** validates moment-to-moment behaviour
 
 When these layers align, the market is usually clearer and more structured. When they diverge, noise increases, and Pulse naturally becomes more conservative.
+
+***
 
 ### Consistency across Engines
 

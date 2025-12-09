@@ -6,6 +6,8 @@ All automation, execution, and order-handling behaviour depends entirely on the 
 
 This distinction is essential for clarity, safety, and correct usage of the Pulse Method.
 
+***
+
 ### What Pulse Mini Does Not Do
 
 Pulse Mini does **not**:
@@ -23,6 +25,8 @@ Pulse Mini is not a trading bot, not a signal service, and not an automated syst
 
 It is a **market-reading engine**.
 
+***
+
 ### Who Generates the Payload
 
 The payload inside your alert is:
@@ -34,6 +38,8 @@ The payload inside your alert is:
 TradingView delivers the message. 3Commas interprets it. Bots execute it. Exchanges fill it.
 
 Pulse Mini does **not** participate in any of these steps.
+
+***
 
 ### Why This Matters
 
@@ -48,6 +54,8 @@ Keeping the reading layer separate from the execution layer ensures:
 
 Pulse Mini remains neutral, consistent, and independent.
 
+***
+
 ### Where to Get Accurate Payload Instructions
 
 The correct instruction formats vary based on your setup. Always refer to:
@@ -58,6 +66,8 @@ The correct instruction formats vary based on your setup. Always refer to:
 * your custom automation logic
 
 Pulse Mini cannot generate payload standards because each system has its own requirements.
+
+***
 
 ### Final Reminder
 

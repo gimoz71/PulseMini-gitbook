@@ -6,6 +6,8 @@ While Trend shows direction and Phase shows structural quality, Timing reveals w
 
 It is the final confirmation layer before a structural signal can appear.
 
+***
+
 ### What the Timing Layer Measures
 
 Timing evaluates:
@@ -17,6 +19,8 @@ Timing evaluates:
 * short-term flow vs short-term disruption
 
 Timing is not about speed — it’s about **stability and alignment**.
+
+***
 
 ### When Timing Is Strong
 
@@ -35,6 +39,8 @@ In these conditions:
 * the environment supports decision-making
 
 Strong timing is a sign of structural health.
+
+***
 
 ### When Timing Weakens
 
@@ -57,6 +63,8 @@ Weak timing warns that the price may:
 
 Pulse Mini becomes more cautious when timing weakens — even if trend and phase appear supportive.
 
+***
+
 ### Timing as a Stability Filter
 
 Timing is not designed to generate rapid-fire signals. It is a **stability filter** that prevents action when behaviour is inconsistent.
@@ -70,6 +78,8 @@ It helps avoid:
 
 Timing ensures that the moment itself is structurally sound.
 
+***
+
 ### How Traders Use the Timing Layer
 
 Traders rely on timing to:
@@ -81,6 +91,8 @@ Traders rely on timing to:
 * confirm that momentum supports structural behaviour
 
 Timing answers the question: **“Is this moment stable enough to act?”**
+
+***
 
 ### Summary
 

@@ -6,6 +6,8 @@ The Pulse Method defines **how engines think**, how they organise information, a
 
 Pulse Mini is the first expression of this method. Essential and Pro expand the same framework with deeper structural intelligence.
 
+***
+
 ### The Three Pillars of the Pulse Method
 
 The entire method rests on three foundational pillars:
@@ -50,6 +52,8 @@ Pulse engines follow a strict modular workflow:
 
 Each layer performs a specific role. No overlap. No interference. This separation keeps the method predictable, stable, and professional.
 
+***
+
 ### Method Philosophy
 
 The Pulse Method is built on one principle: **“Markets cannot be predicted, but they can be read with consistency.”**
@@ -65,6 +69,8 @@ Price behaves in recurring ways:
 Pulse does not anticipate outcomes — it interprets the present.
 
 Clarity replaces prediction. Structure replaces guesswork.
+
+***
 
 ### Why This Method Works
 
@@ -93,6 +99,8 @@ With structural clarity, traders avoid:
 * interpreting noise
 * acting during instability
 
+***
+
 ### Pulse Mini as the First Expression of the Method
 
 Mini applies the method in its simplest, cleanest form:
@@ -112,6 +120,8 @@ It reads:
 * structural continuity
 
 Mini introduces traders and developers to the Pulse philosophy before expanding into deeper engines.
+
+***
 
 ### Consistency Across the Ecosystem
 

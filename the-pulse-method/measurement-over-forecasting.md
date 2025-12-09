@@ -6,6 +6,8 @@ Forecasts break when the environment changes. Measurements adapt because they ob
 
 This is why Pulse engines rely entirely on **behavioural measurement**, not prediction.
 
+***
+
 ### The Problem with Forecasting
 
 Forecasting assumes:
@@ -26,6 +28,8 @@ In reality:
 
 Forecasting collapses under these conditions.
 
+***
+
 ### What Measurement Means in the Pulse Method
 
 Pulse measures behaviours directly observable in price:
@@ -38,6 +42,8 @@ Pulse measures behaviours directly observable in price:
 * timing coherence
 
 No smoothing. No regression. No model-fitting. Just real market behaviour, expressed clearly.
+
+***
 
 ### Why Measurement Creates Stability
 
@@ -54,6 +60,8 @@ When markets mutate, measurement continues to work because it adjusts instantly 
 
 Forecasting must be rebuilt constantly — and usually fails before that.
 
+***
+
 ### Kaufman’s Perspective
 
 Kaufman often highlighted a fundamental truth:
@@ -68,6 +76,8 @@ Pulse embodies this idea:
 
 This is why Pulse engines do not attempt to predict the next move. They measure the quality of the environment so that traders act with clarity, not hope.
 
+***
+
 ### Measurement Enables Non-Repainting Logic
 
 Because Pulse measures structure directly:
@@ -80,6 +90,8 @@ Because Pulse measures structure directly:
 The engine shows the market as it is — nothing more, nothing less.
 
 This stability is impossible in predictive models.
+
+***
 
 ### Measurement Is the Foundation of All Pulse Engines
 

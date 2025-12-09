@@ -4,6 +4,8 @@ Pulse Mini runs directly on TradingView. You do **not** need additional software
 
 Before adding the engine to your chart, make sure you have the following:
 
+***
+
 ### TradingView Account
 
 Any TradingView plan works:
@@ -15,6 +17,8 @@ Any TradingView plan works:
 
 Pulse Mini works without restrictions on all plans.
 
+***
+
 ### Stable Internet Connection
 
 Pulse Mini relies on TradingView data. A stable connection ensures:
@@ -22,6 +26,8 @@ Pulse Mini relies on TradingView data. A stable connection ensures:
 * smooth chart updates
 * clean layer rendering
 * reliable alert behaviour
+
+***
 
 ### Basic TradingView Familiarity
 
@@ -34,6 +40,8 @@ You should know how to:
 
 If you can use TradingView casually, you can use Pulse Mini.
 
+***
+
 ### Optional Tools
 
 These are **optional**, not required:
@@ -43,6 +51,8 @@ These are **optional**, not required:
 * **Other automation tools** → only if you plan to integrate Pulse Mini externally
 
 Pulse Mini is designed to be simple. No indicators, plugins, datasets, or scripts are required.
+
+***
 
 ### No Technical Knowledge Needed
 

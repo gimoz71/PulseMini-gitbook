@@ -2,6 +2,8 @@
 
 Pulse Mini works on top of TradingView and focuses on reading the market with clarity and consistency. It does not execute trades, manage positions, or take autonomous actions. This separation is intentional — Pulse Mini is designed to **think**, not to act.
 
+***
+
 ### Pulse Mini’s Role
 
 Pulse Mini provides:
@@ -17,6 +19,8 @@ It is the **intelligence layer** of your workflow.
 
 Pulse Mini shows when the environment makes sense — nothing more, nothing less.
 
+***
+
 ### TradingView as the Visual Surface
 
 TradingView is the environment where:
@@ -27,6 +31,8 @@ TradingView is the environment where:
 * alerts are triggered
 
 Pulse Mini uses TradingView to express the structure clearly. No extra software is required.
+
+***
 
 ### Automation Tools and Their Role
 
@@ -49,6 +55,8 @@ This keeps the workflow clean:
 
 **Pulse Mini reads → TradingView alerts → 3Commas executes** (optional)
 
+***
+
 ### Benefits of This Separation
 
 This modular design prevents:
@@ -67,6 +75,8 @@ You keep full control over:
 * your risk parameters
 
 Pulse Mini remains independent and consistent in all conditions.
+
+***
 
 ### Manual and Automated Users Both Benefit
 

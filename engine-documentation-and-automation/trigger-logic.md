@@ -10,6 +10,8 @@ A trigger is simply the moment when the market expresses a clean structure acros
 
 Pulse Mini never anticipates movement — it confirms **what is structurally true right now**.
 
+***
+
 ### What Triggers Represent
 
 A trigger is the result of:
@@ -21,6 +23,8 @@ A trigger is the result of:
 When these elements support each other, the environment becomes coherent enough for the engine to highlight it.
 
 Triggers are **not** buy/sell commands. They are **structural confirmations**.
+
+***
 
 ### What Triggers Are Not
 
@@ -36,6 +40,8 @@ They do not tell you “price will go up”. They tell you: **“The environment
 
 This separation is essential.
 
+***
+
 ### When Triggers Are Likely to Appear
 
 Triggers tend to appear when:
@@ -50,6 +56,8 @@ In other words: when the market is behaving cleanly.
 
 Pulse Mini highlights these moments because they represent high-quality structural clarity.
 
+***
+
 ### When Triggers Are Unlikely to Appear
 
 Triggers become rare when:
@@ -61,6 +69,8 @@ Triggers become rare when:
 * volatility behaves irrationally
 
 Pulse Mini prefers **neutrality** over forcing signals. This is what keeps the engine non-repainting and stable.
+
+***
 
 ### Why Pulse Mini Doesn't Fire Often in Noisy Environments
 
@@ -75,6 +85,8 @@ Pulse Mini avoids:
 
 This keeps signals meaningful and prevents impulsive trading.
 
+***
+
 ### How Traders Should Interpret Triggers
 
 A trigger does _not_ mean “Enter now”. It means “The environment is structurally favourable. If your strategy has a valid entry here, conditions support it.”
@@ -87,6 +99,8 @@ It is your responsibility to:
 * decide whether to act
 
 Pulse provides structure. You provide intent.
+
+***
 
 ### Summary
 

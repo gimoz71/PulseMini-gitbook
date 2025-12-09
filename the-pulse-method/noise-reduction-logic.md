@@ -4,6 +4,8 @@ Most price movements are noise — small fluctuations, unstable micro-swings and
 
 Pulse Mini takes the opposite approach. Its purpose is to show **only the structural information that consistently matters**.
 
+***
+
 ### Designed to Ignore Irrelevant Movements
 
 Pulse Mini filters out:
@@ -17,6 +19,8 @@ Pulse Mini filters out:
 
 These behaviours distort traditional indicators, but Pulse Mini is built to ignore them.
 
+***
+
 ### Focus on Structural Elements
 
 Instead of reacting to every price movement, Pulse Mini evaluates:
@@ -28,6 +32,8 @@ Instead of reacting to every price movement, Pulse Mini evaluates:
 * structural continuity
 
 If these elements do not align, the engine prefers to remain neutral. Neutrality is a feature — not a limitation.
+
+***
 
 ### Why Noise Filtering Matters
 
@@ -48,6 +54,8 @@ By filtering noise, Pulse Mini:
 * clarifies the underlying behaviour of the market
 
 You see only what is meaningful — nothing more.
+
+***
 
 ### Non-Repainting Behaviour
 

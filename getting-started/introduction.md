@@ -8,6 +8,8 @@ This section guides you through:
 * understanding the default configuration
 * preparing your workspace for the clearest experience
 
+***
+
 ### What to Expect on First Install
 
 When you load Pulse Mini for the first time, the engine:
@@ -18,6 +20,8 @@ When you load Pulse Mini for the first time, the engine:
 * remains lightweight and non-intrusive
 
 No configuration is needed to begin reading the market.
+
+***
 
 ### Recommended First Steps
 
@@ -51,6 +55,8 @@ If something looks off → refresh or toggle the indicator once.
 {% endstep %}
 {% endstepper %}
 
+***
+
 ### What Happens after Setup
 
 Once Pulse Mini is active:
@@ -61,6 +67,8 @@ Once Pulse Mini is active:
 * signals appear only when the environment aligns
 
 You are now ready to begin reading your first conditions and understanding the structural behaviour of the market.
+
+***
 
 ### No Commitment Required
 

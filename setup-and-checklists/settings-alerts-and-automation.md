@@ -6,6 +6,8 @@ To receive these confirmations, or to automate them through external systems, yo
 
 This chapter explains how alerts work, how to configure them, and how to connect them to automation tools like 3Commas.
 
+***
+
 ### How Pulse Mini Alerts Work
 
 Pulse Mini provides internally defined alert conditions such as:
@@ -20,6 +22,8 @@ These appear automatically in the TradingView “Condition” menu when creating
 TradingView alerts act as the bridge:
 
 **Pulse Mini (market reading) → TradingView (alerts) → Automation tools (execution)**
+
+***
 
 ### Pulse Mini Alert Commands
 
@@ -40,6 +44,8 @@ Then choose:
 
 Pulse Mini triggers the alert only when Trend, Phase, and Timing align structurally.
 
+***
+
 ### Creating Your First Alert
 
 Steps:
@@ -53,6 +59,8 @@ Steps:
 7. Save
 
 Pulse Mini will fire the alert when the structural alignment appears.
+
+***
 
 ### Example: JSON Payload for Entry Long
 
@@ -70,6 +78,8 @@ If you automate through webhooks, you may use a JSON payload like:
 
 TradingView sends this payload to the webhook exactly when the alert triggers.
 
+***
+
 ### Webhook Setup
 
 A webhook is a URL that receives your alert message. Flow:
@@ -79,6 +89,8 @@ A webhook is a URL that receives your alert message. Flow:
 Enable the webhook only if you automate.
 
 Manual traders can simply use notifications.
+
+***
 
 ### Connecting Pulse Mini to 3Commas (Optional)
 
@@ -105,6 +117,8 @@ SmartTrade example:
 
 Pulse Mini provides the signal — 3Commas executes it.
 
+***
+
 ### TradingView → 3Commas
 
 ### Testing Your Setup
@@ -118,6 +132,8 @@ To ensure everything works:
 
 TradingView will report any JSON or delivery error.
 
+***
+
 ### Best Practices
 
 For stable behaviour:
@@ -128,6 +144,8 @@ For stable behaviour:
 * test before using live funds
 * avoid ultra-low timeframes for automated signals
 * use Golden Five markets
+
+***
 
 ### Troubleshooting FAQ
 
@@ -153,6 +171,8 @@ For stable behaviour:
 * bots require `"signal": "buy"` / `"sell"`
 * SmartTrades require `"action"` keywords
 * ensure bot/SmartTrade is set to listen for TradingView alerts
+
+***
 
 ### Important Notes
 

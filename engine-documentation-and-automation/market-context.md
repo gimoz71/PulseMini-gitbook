@@ -8,6 +8,8 @@ Market Context is the broad structural environment in which the price is moving.
 
 Pulse Mini does not label context explicitly — it reacts to it.
 
+***
+
 ### What Market Context Represents
 
 Market context reflects the underlying conditions that shape behaviour, including:
@@ -19,6 +21,8 @@ Market context reflects the underlying conditions that shape behaviour, includin
 * stability vs fragmentation
 
 These elements determine whether the market is expressing a clean structure or unstable noise.
+
+***
 
 ### Stable Context
 
@@ -36,6 +40,8 @@ In these environments:
 * structural behaviour is easier to follow
 
 Stable context is where Pulse Mini expresses maximum clarity.
+
+***
 
 ### Unstable Context
 
@@ -56,6 +62,8 @@ During an unstable context:
 
 Pulse Mini does not force structure where none exists.
 
+***
+
 ### Why Market Context Matters
 
 Market context determines how the engine interprets the other layers:
@@ -68,6 +76,8 @@ Context shapes structure. Structure shapes signals.
 
 This is why Pulse Mini behaves differently in different environments — the engine reads what reality presents, not what fixed rules expect.
 
+***
+
 ### How Traders Use Context
 
 Traders can use context to:
@@ -79,6 +89,8 @@ Traders can use context to:
 * avoid periods dominated by noise
 
 Context does not tell you what to trade — it tells you whether the market deserves attention.
+
+***
 
 ### Summary
 

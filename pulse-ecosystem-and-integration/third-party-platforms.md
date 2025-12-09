@@ -4,6 +4,8 @@ Pulse engines operate inside a clean, structured environment. While the method i
 
 These platforms **do not influence the Pulse reading**. They simply extend where and how Pulse can be used.
 
+***
+
 ### TradingView — Structural Surface
 
 **Category:** Charting, market data, alerts, scripting\
@@ -31,6 +33,8 @@ TradingView is also the **bridge** between Pulse and all external execution syst
 
 Pulse reads. TradingView displays.
 
+***
+
 ### 3Commas — Optional Execution Layer
 
 **Category:** Trading automation, SmartTrade, bots, webhooks\
@@ -50,6 +54,8 @@ Its role is purely operational:
 
 Pulse thinks. 3Commas executes.
 
+***
+
 ### Binance — Exchange Endpoint
 
 **Category:** Spot & Futures Exchange\
@@ -65,6 +71,8 @@ Binance provides:
 
 While widely used for automated workflows, Binance does not influence Pulse's logic. It simply fills orders once the external executor sends them.
 
+***
+
 ### Bybit — Futures-Oriented Endpoint
 
 **Category:** Futures & Derivatives Exchange\
@@ -78,6 +86,8 @@ Bybit is often chosen for:
 * stable behaviour under volatility
 
 As with Binance, Bybit does not affect Pulse’s reading — it only completes the execution chain.
+
+***
 
 ### Important Notice
 

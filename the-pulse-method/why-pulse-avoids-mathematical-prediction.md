@@ -4,6 +4,8 @@ Pulse deliberately avoids using mathematical prediction models such as regressio
 
 Forecasting creates fragility. Behaviour creates stability.
 
+***
+
 ### The Problem with Predictive Models
 
 Most predictive techniques rely on assumptions such as:
@@ -26,6 +28,8 @@ Crypto markets violate all of them. Real markets exhibit:
 
 Prediction models collapse under these conditions.
 
+***
+
 ### Why Regressions Fail in Real Markets
 
 Regression models — linear, polynomial or otherwise — assume:
@@ -44,6 +48,8 @@ But in real markets:
 
 This leads to false confidence and misleading signals. Pulse avoids this entirely.
 
+***
+
 ### Econometric and Statistical Forecasting: Attractive but Fragile
 
 Econometric forecasting often breaks because it expects:
@@ -61,6 +67,8 @@ Crypto provides the opposite:
 
 Forecasting becomes meaningless in a structurally unstable environment.
 
+***
+
 ### As Kaufman Said: Measurement Survives, Prediction Fails
 
 Perry Kaufman consistently argued:
@@ -77,6 +85,8 @@ Pulse embodies this philosophy:
 
 This produces robust, non-repainting behaviour across conditions.
 
+***
+
 ### Behaviour Is More Real Than Mathematics
 
 Behavioural readings rely on:
@@ -91,6 +101,8 @@ Behavioural readings rely on:
 These behaviours appear naturally in markets, without assumptions.
 
 Mathematical prediction tries to impose structure. Pulse reveals the structure that is already there.
+
+***
 
 ### Why Pulse Mini Must Avoid Prediction
 

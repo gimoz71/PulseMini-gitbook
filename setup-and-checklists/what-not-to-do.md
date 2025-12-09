@@ -4,6 +4,8 @@ Pulse Mini is designed to simplify and clarify your reading of the market. To ma
 
 This chapter outlines what _not_ to do when using the Pulse Method.
 
+***
+
 ### Do Not Jump between Random Markets
 
 Switching symbols constantly:
@@ -15,9 +17,13 @@ Switching symbols constantly:
 
 Focus on the Golden Five unless you have a clear reason to explore alternatives.
 
+***
+
 ### Do Not Use Ultra-Low Timeframes
 
 Charts such as **1m**, **3m**, **5m** introduce heavy micro-noise. Pulse Mini remains functional, but clarity drops sharply, making the reading less reliable and far more reactive.
+
+***
 
 ### Do Not Chase Every Move
 
@@ -28,6 +34,8 @@ Chasing moves outside of alignment leads to:
 * emotional entries
 * low-quality trades
 * reactive behaviour
+
+***
 
 ### Do Not Overload Your Chart
 
@@ -40,6 +48,8 @@ Too many indicators, drawings, tools, or overlays:
 
 A clean chart is a part of the Pulse philosophy.
 
+***
+
 ### Do Not Force Trades when Layers Are Misaligned
 
 When **trend**, **phase**, and **timing** disagree:
@@ -50,6 +60,8 @@ When **trend**, **phase**, and **timing** disagree:
 
 Misalignment is a structural signal to stand down.
 
+***
+
 ### Do Not Ignore Higher Timeframes
 
 Always review:
@@ -59,11 +71,15 @@ Always review:
 
 Skipping the higher-level view makes decisions less accurate and more reactive.
 
+***
+
 ### Do Not Expect Prediction
 
 Pulse Mini does **not** guess the future price. It reveals the present clearly — your judgment completes the process.
 
 Expecting forecasting from a behavioural engine leads to misinterpretation and misuse.
+
+***
 
 ### Why These Rules Matter
 

@@ -6,6 +6,8 @@ It does not rely on rigid rules, fixed thresholds, or predefined patterns. Inste
 
 Pulse Mini does not assign scores or probabilities. It reads **alignment**.
 
+***
+
 ### How the Decision Matrix Works
 
 The matrix continuously evaluates three conditions:
@@ -34,6 +36,8 @@ Phase determines whether the environment has coherence.
 
 Timing determines whether the moment itself supports action.
 
+***
+
 ### Alignment vs Divergence
 
 Pulse Mini expects **natural alignment**, not perfection.
@@ -54,6 +58,8 @@ Divergence occurs when:
 
 Divergence = instability. In these cases, the matrix shifts into caution and suppresses triggers.
 
+***
+
 ### Why the Matrix Avoids Rigid Rules
 
 Traditional systems use formulas like:
@@ -72,6 +78,8 @@ Pulse Mini takes the opposite approach:
 
 It evaluates coherence, not calculation.
 
+***
+
 ### Why Pulse Mini Feels “Calm”
 
 Because the matrix:
@@ -84,6 +92,8 @@ Because the matrix:
 
 This behaviour is intentional. It keeps the engine non-repainting and stable across all markets.
 
+***
+
 ### What the Decision Matrix Tells You
 
 The matrix answers one core question: **“Is the market structurally readable right now?”**
@@ -92,6 +102,8 @@ The matrix answers one core question: **“Is the market structurally readable r
 * If no → neutrality
 
 It does _not_ command action. It reveals whether action is structurally justified.
+
+***
 
 ### Summary
 

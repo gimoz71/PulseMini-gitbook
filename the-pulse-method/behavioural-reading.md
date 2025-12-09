@@ -6,6 +6,8 @@ Behavioural Reading is the foundation of the Pulse Method. It focuses on recurri
 
 Pulse Mini is the purest expression of this approach.
 
+***
+
 ### Markets Cannot Be Predicted — But They Can Be Read
 
 Price does not move randomly. It follows recurring behavioural dynamics:
@@ -18,6 +20,8 @@ Price does not move randomly. It follows recurring behavioural dynamics:
 These behaviours do not repeat identically, but they follow recognisable rhythms.
 
 Pulse is designed to read what the market is doing **right now**, without forcing it into predictive formulas.
+
+***
 
 ### Why Pulse Focuses on Behaviour, Not Forecasting
 
@@ -44,6 +48,8 @@ Crypto markets violate all these assumptions:
 
 Forecasting becomes fragile. Behaviour remains reliable.
 
+***
+
 ### Structural Behaviour as the Core Signal
 
 Pulse reads:
@@ -66,6 +72,8 @@ This produces:
 
 The method becomes durable, even in harsh environments.
 
+***
+
 ### Isolating Real Direction
 
 Pulse isolates direction through behavioural characteristics:
@@ -80,15 +88,19 @@ No moving averages. No smoothing formulas. No model fitting.
 
 Direction is **observed**, not calculated.
 
+***
+
 ### Avoiding Mathematical Prediction
 
 Pulse avoids regression and statistical models not because they are “wrong”, but because **markets consistently violate their assumptions.**
 
 As Kaufman would say:
 
-> Prediction is attractive in theory, but measurement is what survives the real market.
+> <mark style="color:$primary;">Prediction is attractive in theory, but measurement is what survives the real market.</mark>
 
 Pulse measures behaviour. It does not forecast it.
+
+***
 
 ### Mini as the Purest Form of Behavioural Reading
 

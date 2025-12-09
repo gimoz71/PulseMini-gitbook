@@ -2,6 +2,8 @@
 
 Pulse Mini is designed to read **structural behaviour** — trend, phase, and timing — in the cleanest possible way. Cross-crypto pairs introduce distortions that make this reading less stable, less consistent, and often unreliable. For this reason, cross pairs are **not part of the core Pulse environment**.
 
+***
+
 ### Why Cross-Crypto Pairs Are Problematic
 
 Cross pairs (e.g., BTC/ETH, ETH/SOL, BNB/BTC) are based on _relative_ strength, not _absolute_ price behaviour.
@@ -28,6 +30,8 @@ Expansion → contraction cycles break faster and more erratically.
 
 The micro-structure becomes chaotic, weakening Pulse Mini’s ability to read alignment.
 
+***
+
 ### Why Stable-Base Pairs Are Structurally Superior
 
 Stable-base markets (BTC/USDT, ETH/USDT, XRP/USDT, SOL/USDT, BNB/USDT) offer:
@@ -40,6 +44,8 @@ Stable-base markets (BTC/USDT, ETH/USDT, XRP/USDT, SOL/USDT, BNB/USDT) offer:
 * clearer alignment across layers
 
 These conditions allow Pulse Mini to express its architecture without distortion.
+
+***
 
 ### Should You Use Cross Pairs?
 
@@ -67,6 +73,8 @@ The Pulse Method is built on:
 When these elements are disrupted, the method becomes less effective.
 
 Cross pairs don’t “break” Pulse Mini — they simply violate the structural conditions that make the method powerful.
+
+***
 
 ### Recommended Approach
 

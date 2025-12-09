@@ -13,6 +13,8 @@ Because Pulse Mini outputs clean, non-repainting structural signals, it can inst
 
 You don’t need to embed Pulse Mini’s code. You consume its structural reading **externally**.
 
+***
+
 ### Adding Pulse Mini to Your Environment
 
 Developers can integrate Pulse Mini in minutes:
@@ -24,6 +26,8 @@ Developers can integrate Pulse Mini in minutes:
 5. Let Pulse provide context and let your logic execute.
 
 Pulse becomes an **external context oracle** for your system.
+
+***
 
 ### Compatible with Any Architecture
 
@@ -40,6 +44,8 @@ Pulse Mini works naturally with:
 
 Your system reads the payload. Pulse supplies the behaviour.
 
+***
+
 ### How Pulse Enhances Developer Logic
 
 Pulse Mini improves virtually any strategy by adding a structural filter:
@@ -55,6 +61,8 @@ Instead of relying on MA crosses or oscillator thresholds, developers can use Pu
 
 Your script keeps its rules. Pulse tells you if the environment makes sense.
 
+***
+
 ### A Natural Fit for Behaviour-First Architectures
 
 Pulse Mini can serve as:
@@ -67,6 +75,8 @@ Pulse Mini can serve as:
 * a regime filter for strategies
 
 The engine upgrades existing logic without interfering with it.
+
+***
 
 ### Rapid Deployment, Zero Conflicts
 

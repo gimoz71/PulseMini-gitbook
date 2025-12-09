@@ -4,6 +4,8 @@ Pulse Mini organises market behaviour into **three simplified structural layers*
 
 The goal is simple: understand the environment quickly and focus only on conditions that make sense.
 
+***
+
 ### Trend — Direction of Movement
 
 The **Trend layer** shows the dominant directional bias of the market.
@@ -17,6 +19,8 @@ It helps you understand whether the environment favours:
 A **stable, clean trend** creates clearer structural conditions. A **weakening or flattening trend** often signals hesitation and reduced clarity.
 
 Pulse Mini identifies trend as **behaviour**, not as a moving average or smoothing formula.
+
+***
 
 ### Phase — Quality of Movement
 
@@ -37,6 +41,8 @@ This layer helps you avoid environments where structure becomes unreliable, such
 
 With a clean phase, the structure supports action. With a chaotic one, it's better to stay cautious.
 
+***
+
 ### Timing — Rhythm and Micro-Structure
 
 The **Timing layer** captures short-term behaviour and momentum.
@@ -49,6 +55,8 @@ It shows whether current conditions support continuation or signal hesitation:
 Even in a strong trend, poor timing can weaken the environment.
 
 Timing is not about generating rapid triggers — it is a **stability filter** that helps avoid reactive or impulsive conditions.
+
+***
 
 ### Layer Alignment — The Core of Pulse Mini
 

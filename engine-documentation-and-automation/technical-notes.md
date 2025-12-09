@@ -13,6 +13,8 @@ Instead, the engine reads **price behaviour directly**, using structural dynamic
 
 These technical notes clarify how the engine works internally and why it behaves differently from traditional TA tools.
 
+***
+
 ### Behavioural Logic Instead of Formulas
 
 Pulse Mini evaluates:
@@ -33,6 +35,8 @@ These elements are observable phenomena, not mathematical abstractions. Because 
 
 Pulse does not approximate structure — it reads it.
 
+***
+
 ### Why Pulse Mini Is Non-Repainting
 
 Pulse Mini never:
@@ -45,6 +49,8 @@ Pulse Mini never:
 Signals and conditions reflect the market **exactly as it was** at the time they appeared.
 
 This guarantees mechanical consistency and prevents misleading history.
+
+***
 
 ### Why Pulse Mini Avoids Predictive Mathematics
 
@@ -68,6 +74,8 @@ Behavioural measurement is:
 
 This keeps the engine truthful to real market behaviour.
 
+***
+
 ### Why Pulse Does Not Use Moving Averages
 
 Moving averages:
@@ -83,6 +91,8 @@ Pulse Mini reads **raw market structure**, which is more accurate than any smoot
 * **Structure** → truth
 * **Smoothing** → distortion
 
+***
+
 ### Structural Invariance across Timeframes
 
 Pulse Mini maintains the same internal logic on 1H, 2H, 4H, and 1D. This is possible because:
@@ -92,6 +102,8 @@ Pulse Mini maintains the same internal logic on 1H, 2H, 4H, and 1D. This is poss
 * volatility cycles scale
 
 Pulse does not adapt parameters. It reads behaviour consistently across all time horizons.
+
+***
 
 ### Micro-Structure and Noise Handling
 
@@ -105,6 +117,8 @@ Pulse Mini is designed to ignore:
 
 This reduces false positives and keeps visual clarity high. The engine activates only when the structure becomes coherent.
 
+***
+
 ### Importance of Behavioural Anchoring
 
 Because Pulse Mini anchors its reading to behaviour rather than formulas, it works:
@@ -117,6 +131,8 @@ Because Pulse Mini anchors its reading to behaviour rather than formulas, it wor
 …and remains consistent even in aggressive, irregular, or fast markets.
 
 This behavioural foundation is the core technical philosophy of the Pulse Method.
+
+***
 
 ### Summary
 

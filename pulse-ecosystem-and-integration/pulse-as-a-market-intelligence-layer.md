@@ -12,6 +12,8 @@ Instead of focusing on execution, orders, TP/SL, or portfolio management, Pulse 
 
 This intelligence can be consumed manually or by any automated system.
 
+***
+
 ### A Neutral Analysis Layer
 
 Pulse does not:
@@ -29,6 +31,8 @@ This clear separation protects the integrity of both:
 * **analysis** (Pulse)
 * **execution** (bots, platforms, exchanges)
 
+***
+
 ### What Pulse Provides to Any Workflow
 
 Pulse delivers a unified behavioural reading that any tool can use:
@@ -44,6 +48,8 @@ Pulse delivers a unified behavioural reading that any tool can use:
 
 Pulse becomes the _brain_, your system becomes the _executor_.
 
+***
+
 ### Modular Integration
 
 Since Pulse operates externally to all systems:
@@ -54,6 +60,8 @@ Since Pulse operates externally to all systems:
 * it fits naturally into any infrastructure
 
 The intelligence remains central; the execution layer is flexible and interchangeable.
+
+***
 
 ### The Philosophy behind the Layer
 

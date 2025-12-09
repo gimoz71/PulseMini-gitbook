@@ -4,6 +4,8 @@ Pulse Mini is the simplest, cleanest, and most accessible expression of the Puls
 
 Mini embodies the core philosophy: **“Read the present with precision. Don’t guess the future.”**
 
+***
+
 ### What Mini Actually Does
 
 Pulse Mini captures and expresses:
@@ -25,6 +27,8 @@ It does this without:
 * recalculated signals
 
 Mini reads what the market is doing, not what it might do.
+
+***
 
 ### Why Mini Must Stay Pure
 
@@ -48,6 +52,8 @@ Mini’s purity gives it:
 
 This purity is the reason Mini is permanently free — it represents the foundational layer of the Method.
 
+***
+
 ### Mini as a Structural Entry Point
 
 Mini introduces traders and developers to:
@@ -67,6 +73,8 @@ You learn how to read:
 * timing as rhythm
 
 …before moving into deeper engines.
+
+***
 
 ### How Mini Connects to Essential and Pro
 
@@ -91,6 +99,8 @@ But all levels share the **same root logic**.
 * **Essential** → expansion
 * **Pro** → depth
 
+***
+
 ### Why Mini Works in Any Workflow
 
 Mini’s behavioural reading is:
@@ -112,6 +122,8 @@ This makes Pulse Mini a perfect context layer for:
 * Python/Node.js infrastructures
 
 Mini fits anywhere because it never interferes — it only clarifies.
+
+***
 
 ### The Philosophy in One Line
 

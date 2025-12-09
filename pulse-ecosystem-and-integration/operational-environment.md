@@ -4,6 +4,8 @@ The Pulse Method is not only a way of reading charts — it is a structured work
 
 Pulse engines think. External tools act. Exchanges execute. Your workflow stays organised.
 
+***
+
 ### TradingView — The Structural Surface
 
 **Role:** the environment where raw market behaviour appears.
@@ -18,6 +20,8 @@ TradingView provides:
 
 Pulse Mini reads the structure directly on TradingView. Nothing is modified or preprocessed — the engine interprets the price exactly as it is.
 
+***
+
 ### Pulse — The Reading Layer
 
 Pulse engines perform the core task:
@@ -29,6 +33,8 @@ Pulse engines perform the core task:
 * identify structure
 
 They **never** execute trades, manage orders, or interact with exchanges. Pulse is the market intelligence layer. Its job is to think — not to act.
+
+***
 
 ### 3Commas — The Optional Execution Layer
 
@@ -51,6 +57,8 @@ But:
 
 Pulse thinks. 3Commas executes.
 
+***
+
 ### Exchanges — The Endpoint
 
 Exchanges (Binance, Bybit, etc.) complete the chain. They execute orders, provide liquidity, and confirm fills. They do not influence Pulse or change its reading. The workflow remains clean:
@@ -58,6 +66,8 @@ Exchanges (Binance, Bybit, etc.) complete the chain. They execute orders, provid
 Pulse reads → TradingView displays → 3Commas executes → Exchanges fill
 
 No overlap. No ambiguity. Just structure, delivered clearly.
+
+***
 
 ### Why This Separation Matters
 

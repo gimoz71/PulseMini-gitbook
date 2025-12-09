@@ -12,6 +12,8 @@ These layers work together to form a consistent structural map of the environmen
 
 Pulse Mini does not analyse price with indicators — it observes how price behaves.
 
+***
+
 ### Structure over Indicators
 
 Traditional indicators often:
@@ -30,6 +32,8 @@ Pulse Mini takes the opposite approach:
 
 Instead, it reads the _natural organisation of price_ as it unfolds.
 
+***
+
 ### Present-Focused Interpretation
 
 Pulse Mini focuses exclusively on the **current environment**, evaluating:
@@ -44,6 +48,8 @@ Pulse Mini focuses exclusively on the **current environment**, evaluating:
 It does not guess what’s next — it reveals what is happening now.
 
 Clean behaviour today is more actionable than a prediction about tomorrow.
+
+***
 
 ### Alignment as a Structural Signal
 
@@ -61,6 +67,8 @@ When layers diverge, structure breaks, and the engine stays neutral. This keeps 
 * consistent
 * non-repainting
 * resistant to noise
+
+***
 
 ### A Universal Interpretation Model
 

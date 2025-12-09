@@ -4,6 +4,8 @@ The Trend Layer is the backbone of Pulse Mini’s structural reading. It identif
 
 Pulse Mini does **not** calculate trend using moving averages, smoothing functions, or regression models. It reads trend as **behaviour** — directly from price.
 
+***
+
 ### What the Trend Layer Measures
 
 The trend layer evaluates:
@@ -15,6 +17,8 @@ The trend layer evaluates:
 * preservation or loss of directional rhythm
 
 When these elements align, the trend becomes readable and reliable.
+
+***
 
 ### When Trend Is Clear
 
@@ -33,6 +37,8 @@ In a clear trend:
 
 Pulse Mini tends to be more expressive when the trend is stable.
 
+***
+
 ### When Trend Weakens
 
 Trend weakness appears when:
@@ -50,6 +56,8 @@ When trend weakens:
 
 A weakening trend is often the first sign of an unstable environment.
 
+***
+
 ### Why Trend Matters for the Method
 
 Trend determines:
@@ -66,6 +74,8 @@ Without a clear trend:
 
 Trend is not a trading signal — it is the **structural foundation**.
 
+***
+
 ### How Traders Use the Trend Layer
 
 Traders look at the trend layer to:
@@ -77,6 +87,8 @@ Traders look at the trend layer to:
 * identify when the market deserves attention
 
 Trend answers the question: **“Is the market moving in a direction or not?”**
+
+***
 
 ### Summary
 

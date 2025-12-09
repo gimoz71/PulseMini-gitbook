@@ -4,6 +4,8 @@ Pulse Mini does not rely on rigid rules or mechanical triggers. Instead, it read
 
 The engine acts only when the market behaves coherently.
 
+***
+
 ### Step 1 — Check the Trend
 
 The engine evaluates whether:
@@ -13,6 +15,8 @@ The engine evaluates whether:
 * the rhythm is consistent
 
 If the trend weakens, becomes flat, or turns conflicting, clarity drops and caution increases.
+
+***
 
 ### Step 2 — Check the Phase
 
@@ -25,6 +29,8 @@ The engine assesses whether the market is:
 
 Clean expansion supports the structure. Compression or mid-phase instability often reduces signal quality.
 
+***
+
 ### Step 3 — Check the Timing
 
 Timing reflects short-term behaviour:
@@ -33,6 +39,8 @@ Timing reflects short-term behaviour:
 * **weak timing** → signals hesitation or exhaustion
 
 Even in a clear trend, poor timing weakens the environment.
+
+***
 
 ### Step 4 — Look for Alignment
 
@@ -47,6 +55,8 @@ Alignment is the core of Pulse Mini. The engine highlights clearer conditions on
 Aligned layers lead to a structured environment. Divergent layers lead to noise, instability, and caution.
 
 Pulse Mini prefers neutrality over forcing signals — this is what keeps it stable and non-repainting.
+
+***
 
 ### You Don’t Need to Memorise Anything
 

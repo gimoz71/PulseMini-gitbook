@@ -12,11 +12,15 @@ Pulse Mini solves this limitation by exposing its structural reading **externall
 
 This makes Pulse Mini fully compatible with **any system capable of receiving alerts**, regardless of the technology stack.
 
+***
+
 ### A Behavioural Context Layer, Not an Embedded Script
 
 Pulse Mini is not used by embedding its code inside another script. Instead, it acts as an **external context source**, providing objective structural information that your system can read and act upon.
 
 Your bot or indicator does not need access to Pulse Mini’s internal logic. It only needs to receive the conditions Pulse Mini detects.
+
+***
 
 ### Compatible with Every Automation Framework
 
@@ -32,6 +36,8 @@ Pulse Mini can be consumed by:
 * hybrid off-chain/on-chain logic
 
 Any environment that receives a webhook or reads data can use Pulse Mini.
+
+***
 
 ### Why It Works So Well
 
@@ -54,6 +60,8 @@ This is the same information the engine uses visually — but delivered as machi
 
 Pulse Mini becomes a **behavioural oracle** for your strategy.
 
+***
+
 ### No Need to Modify Your Codebase
 
 Because Pulse Mini outputs its signals externally:
@@ -64,6 +72,8 @@ Because Pulse Mini outputs its signals externally:
 * you don’t touch existing strategies
 
 Pulse Mini remains separate, providing a clean, non-repainting context without interfering with your internal architecture.
+
+***
 
 ### Clean Separation of Logic
 

@@ -4,6 +4,8 @@ Pulse Mini is a **market-reading engine**, not a bot, not a prediction tool, and
 
 Here is what Pulse Mini does **not** do.
 
+***
+
 ### No Predictions, No Forecasting
 
 Pulse Mini does **not**:
@@ -14,6 +16,8 @@ Pulse Mini does **not**:
 * promise profits or guaranteed results
 
 The engine shows what the market is doing _now_, not what it _might_ do.
+
+***
 
 ### No Execution or Portfolio Control
 
@@ -28,6 +32,8 @@ Pulse Mini does **not**:
 
 It is not a trading bot. It does not replace personal discipline or risk management.
 
+***
+
 ### No Market Forcing or Over-Signalling
 
 Pulse Mini does **not**:
@@ -39,6 +45,8 @@ Pulse Mini does **not**:
 * push you to act
 
 It stays neutral when the market is unclear.
+
+***
 
 ### No Indicator-Based Logic
 
@@ -52,6 +60,8 @@ Pulse Mini does **not** rely on:
 
 Its logic is structural and behavioural, not formula-driven.
 
+***
+
 ### No Visual Overload
 
 Pulse Mini is built on the philosophy of the **Strategic Ghost Engine**:
@@ -62,6 +72,8 @@ Pulse Mini is built on the philosophy of the **Strategic Ghost Engine**:
 * it reduces visual complexity
 
 The engine works _with_ your chart, not _on top_ of it.
+
+***
 
 ### No Interference With Your Workflow
 

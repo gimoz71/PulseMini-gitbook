@@ -6,6 +6,8 @@ Not all markets are structurally equal. Some produce noise, irregular swings, an
 
 The **Golden Five** represent the markets where Pulse Mini expresses maximum clarity.
 
+***
+
 ### The Golden Five
 
 These five crypto pairs consistently offer the cleanest structural behaviour:
@@ -15,6 +17,8 @@ These five crypto pairs consistently offer the cleanest structural behaviour:
 * XRP/USDT
 * SOL/USDT
 * BNB/USDT
+
+***
 
 ### Why These Markets Work Best
 
@@ -36,6 +40,8 @@ Their intraday behaviour is cleaner and easier to interpret structurally.
 
 Cross-crypto pairs often contain volatility from two unstable assets, creating inconsistent behaviour. The Golden Five avoid these distortions by using a stable base (USDT / USD / USDC).
 
+***
+
 ### Why Variety Is Not an Advantage
 
 Many traders believe that “more symbols = more opportunity”. In the Pulse Method, the opposite is true:
@@ -48,6 +54,8 @@ Consistency comes from analysing markets that behave clearly, not from chasing e
 
 Pulse focuses on **structural integrity**, not variety.
 
+***
+
 ### The Role of the Golden Five in the Ecosystem
 
 These markets are the **methodological foundation**:
@@ -58,6 +66,8 @@ These markets are the **methodological foundation**:
 * The Dashboard will rely on their structure for modelling and scenario analysis
 
 You can explore other markets, but the Golden Five remain the clearest environment for the method.
+
+***
 
 ### The Principle Behind the Golden Five
 

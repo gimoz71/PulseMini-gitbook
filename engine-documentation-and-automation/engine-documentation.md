@@ -28,6 +28,8 @@ Mini does not predict future movements. It reads the present — clearly and con
 
 This chapter introduces the engine’s design philosophy before diving into each structural layer.
 
+***
+
 ### What Makes Pulse Mini Different
 
 Unlike traditional indicators built on formulas, oscillators, or smoothing functions, Pulse Mini:
@@ -45,6 +47,8 @@ Instead, it observes how price behaves in real time and reduces noise by focusin
 * momentum continuity vs instability
 
 Pulse Mini reads behaviour — not indicators.
+
+***
 
 ### Unified Interpretation Across Timeframes
 
@@ -64,6 +68,8 @@ It maintains:
 
 This means traders do not need to adjust settings or learn different behaviours per timeframe.
 
+***
+
 ### When Signals Appear
 
 Signals appear only when:
@@ -75,6 +81,8 @@ Signals appear only when:
 Pulse Mini does **not** force triggers during unstable environments. It prefers neutrality over noise.
 
 This is why Pulse Mini feels “calmer” than most indicators — it ignores low-quality conditions and highlights only structural clarity.
+
+***
 
 ### Why Mini Doesn’t Try to Catch Every Move
 
@@ -98,6 +106,8 @@ Pulse Mini separates:
 This keeps the method clean: Pulse reads → you act (optionally via bots)
 
 Mini does not tell you _what_ to trade. It tells you _when the environment is structurally clear_.
+
+***
 
 ### What This Overview Prepares You For
 

@@ -4,6 +4,8 @@ Pulse is built around **one method**. Every component in the ecosystem is simply
 
 This chapter provides a minimal orientation, helping readers understand how Pulse Mini fits into the larger framework.
 
+***
+
 ### Pulse Mini — Entry-Level Structural Engine
 
 **Status:** Released\
@@ -18,6 +20,8 @@ Pulse Mini focuses on:
 
 Mini avoids sideways or compression-heavy environments to maintain maximum clarity. It is also **permanently free**, serving as the accessible entry point to the entire ecosystem.
 
+***
+
 ### Pulse Essential — Extended Structural Map
 
 **Status:** In planning **Role:** Intermediate structural engine
@@ -30,6 +34,8 @@ Essential expands Mini’s logic by adding:
 * deeper detection of context
 
 It completes the **basic structural map** of the market.
+
+***
 
 ### Pulse Pro — Full-Depth Structural Intelligence
 
@@ -44,6 +50,8 @@ Pulse Pro will offer:
 * expanded structural context
 
 Designed for users who require maximum analytical depth and professional-grade market intelligence.
+
+***
 
 ### Pulse Dashboard — Operational Intelligence Layer
 
@@ -61,6 +69,8 @@ The Dashboard will provide:
 
 It sits _above_ the engines and does not alter their logic — it organises how signals are used.
 
+***
+
 ### Shared Philosophy across All Engines
 
 Despite their differences in depth, Mini, Essential, Pro, and Dashboard all follow the **same core method**:
@@ -72,6 +82,8 @@ Despite their differences in depth, Mini, Essential, Pro, and Dashboard all foll
 * clean separation between analysis and execution
 
 This consistency is what makes Pulse scalable, stable, and easy to adopt across roles, from discretionary traders to bot developers.
+
+***
 
 ### Why the Ecosystem Matters
 

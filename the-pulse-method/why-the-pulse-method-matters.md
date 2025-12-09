@@ -4,6 +4,8 @@ Pulse is not a collection of tools. It is a structured way of seeing the market 
 
 The Pulse Method provides a foundation for consistent decision-making, regardless of the engine or tools you use.
 
+***
+
 ### What the Method Helps You Avoid
 
 The method is designed to eliminate the typical pitfalls of discretionary trading:
@@ -15,6 +17,8 @@ The method is designed to eliminate the typical pitfalls of discretionary tradin
 * forcing decisions when structure is absent
 
 Pulse brings the focus back to structure, clarity, and behaviour — the elements that actually matter.
+
+***
 
 ### What the Method Helps You Achieve
 
@@ -28,6 +32,8 @@ By adopting the Pulse Method, traders learn to:
 * build a repeatable and controlled workflow
 
 The method replaces complexity with clarity, and guesswork with structure.
+
+***
 
 ### Mini as the First Expression of the Method
 
@@ -43,6 +49,8 @@ Mini focuses on:
 
 As users move to Essential or Pro, the method becomes **deeper — not different**.
 
+***
+
 ### A Stable Philosophy Across the Ecosystem
 
 No matter which Pulse engine you use:
@@ -51,4 +59,4 @@ No matter which Pulse engine you use:
 * the logic stays coherent
 * the workflow stays modular
 
-The Pulse Method ensures that every component — Mini, Essential, Pro, Dashboard — follows the same behavioural philosophy. This is what makes the ecosystem scalable, intuitive, and durable.
+The Pulse Method ensures that every component — **Mini**, **Essential**, **Pro**, **Dashboard** — follows the same behavioural philosophy. This is what makes the ecosystem scalable, intuitive, and durable.

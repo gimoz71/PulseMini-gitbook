@@ -12,6 +12,8 @@ Pulse Mini integrates naturally with automation platforms because its output is:
 
 This chapter explains how external automation fits into the Pulse ecosystem.
 
+***
+
 ### Pulse Mini’s Role in Automation
 
 Pulse Mini provides:
@@ -25,6 +27,8 @@ It does **not** execute. It does **not** manage positions. It does **not** alloc
 
 Pulse thinks. External systems act.
 
+***
+
 ### TradingView Alerts as the Bridge
 
 TradingView acts as the communication layer between Pulse and execution tools.
@@ -34,6 +38,8 @@ Flow: **Pulse Mini → TradingView Alerts → Webhook → Automation Tool**
 The alert triggers only when the structural alignment appears. The webhook forwards the alert to your automation platform.
 
 Pulse Mini does not modify the message — you decide the payload.
+
+***
 
 ### 3Commas as an Execution Layer (Optional)
 
@@ -60,6 +66,8 @@ But 3Commas does _not_:
 
 Pulse provides intelligence. 3Commas provides action.
 
+***
+
 ### Other Automation Environments
 
 Pulse Mini can be integrated into:
@@ -79,6 +87,8 @@ Any tool capable of receiving:
 
 …can use Pulse Mini as a behavioural intelligence layer.
 
+***
+
 ### Why Automation Works Well with Pulse
 
 Automation benefits from Pulse because Pulse:
@@ -93,6 +103,8 @@ Automation benefits from Pulse because Pulse:
 This dramatically reduces false entries in automated systems.
 
 Bots operate blindly. Pulse gives them context.
+
+***
 
 ### Human vs Automated Interpretation
 
@@ -109,6 +121,8 @@ The method remains the same:
 * Tools execute (only if you choose)
 
 Automation is **optional** — clarity is mandatory.
+
+***
 
 ### Summary
 

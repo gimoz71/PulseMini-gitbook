@@ -12,6 +12,8 @@ These elements exist in every liquid market, at every timeframe. Pulse does not 
 
 Structural Reading is what keeps Pulse consistent, stable, and non-repainting across all conditions.
 
+***
+
 ### Why Structural Reading Matters
 
 Most technical tools attempt to _calculate_ structure. Pulse does the opposite:
@@ -31,23 +33,17 @@ This approach avoids:
 
 Structural Reading ensures that the engine always operates on reality — not assumptions.
 
+***
+
 ### The Three Elements of Structure
 
 Pulse Mini builds its entire logic around three behavioural layers:
 
-#### Trend — Direction of Movement
-
-Shows whether the market is moving upward, downward, or losing cohesion.
-
-#### Phase — Quality of Movement
-
-Expansions, contractions, transitions and structural shifts.
-
-#### Timing — Rhythm of Movement
-
-Short-term behaviour that confirms or contradicts the broader environment.
+<table data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h3><mark style="color:$primary;">Trend</mark> </h3><h4>Direction of Movement</h4></td><td>Shows whether the market is moving upward, downward, or losing cohesion.</td></tr><tr><td><h3><mark style="color:$primary;">Phase</mark></h3><h4>Quality of Movement</h4></td><td>Expansions, contractions, transitions and structural shifts.</td></tr><tr><td><h3><mark style="color:$primary;">Timing</mark></h3><h4>Rhythm of Movement</h4></td><td>Short-term behaviour that confirms or contradicts the broader environment.</td></tr></tbody></table>
 
 Every layer is readable individually. Together, they form a unified understanding of current conditions.
+
+***
 
 ### How Pulse Identifies Structure
 
@@ -70,6 +66,8 @@ Instead, it reads natural price dynamics:
 
 When these elements align, structure becomes clear. When they diverge, the environment becomes unstable.
 
+***
+
 ### Stability Over Action
 
 Structural Reading prioritises clarity over frequency.
@@ -84,6 +82,8 @@ This means:
 Most systems try to generate more signals. Pulse Mini tries to generate **better structure**.
 
 The philosophy is simple: **If the environment is not clear, doing nothing is the correct decision.**
+
+***
 
 ### A Permanent Methodological Foundation
 

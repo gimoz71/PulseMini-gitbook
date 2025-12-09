@@ -11,6 +11,8 @@ It tells you whether the market is:
 
 Understanding the phase helps you avoid difficult environments and focus on moments where behaviour is clean and organised.
 
+***
+
 ### Expansion Phase
 
 Expansion is when the market moves with clarity and consistency.
@@ -30,6 +32,8 @@ Expansion phases typically produce:
 * fewer false impulses
 
 Pulse Mini becomes more expressive in expansion.
+
+***
 
 ### Contraction Phase
 
@@ -51,6 +55,8 @@ During contraction:
 * better to wait than to act
 
 Contraction is where traders often force trades — Pulse Mini avoids these traps.
+
+***
 
 ### Transition Phase
 
@@ -74,6 +80,8 @@ Pulse Mini treats them conservatively because:
 
 Transitions require patience, not action.
 
+***
+
 ### Why Phase Matters
 
 Phase determines:
@@ -87,6 +95,8 @@ Without understanding the phase, traders operate blind — entering during the w
 
 Pulse Mini makes phase behaviour visible and readable.
 
+***
+
 ### How Traders Use the Phase Layer
 
 Traders use phase to:
@@ -98,6 +108,8 @@ Traders use phase to:
 * understand when structure is at risk
 
 Phase answers the question: **“Is the market moving cleanly or not?”**
+
+***
 
 ### Summary
 

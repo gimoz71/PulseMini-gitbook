@@ -4,6 +4,8 @@ Pulse Mini does not generate or modify payloads. It only triggers your TradingVi
 
 Different tools require different payload structures. This chapter provides clear examples for the two most common environments: 3Commas Bots and 3Commas SmartTrades.
 
+***
+
 ### 3Commas Bots (Official TradingView “Custom Signal” Format)
 
 [3Commas](https://app.3commas.io/d?utm_source=referral\&utm_medium=cabinet\&c=tc2078885) bots accept two extremely simple payloads.
@@ -21,6 +23,8 @@ Sell Signal:
 ```
 
 Bots parse these payloads automatically. No additional fields are required. This is the cleanest and most common automation workflow.
+
+***
 
 ### SmartTrade Webhooks
 
@@ -45,6 +49,8 @@ Close Example:
 ```
 
 The SmartTrade you configure determines what these actions do.
+
+***
 
 ### Custom Bots and Frameworks
 
@@ -72,6 +78,8 @@ If you use:
 
 TradingView will send this exactly as written when the alert fires.
 
+***
+
 ### How TradingView Sends Payloads
 
 TradingView replaces template variables like:
@@ -84,6 +92,8 @@ TradingView replaces template variables like:
 
 Pulse Mini does not modify this process. It only triggers the alert.
 
+***
+
 ### Testing Your Payload
 
 To ensure everything works correctly:
@@ -95,6 +105,8 @@ To ensure everything works correctly:
 5. Validate the JSON structure
 
 TradingView will report formatting errors (JSON invalid) or delivery issues (webhook failed).
+
+***
 
 ### Summary
 

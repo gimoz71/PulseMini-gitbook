@@ -2,6 +2,8 @@
 
 When you add Pulse Mini to your chart for the first time, the engine loads with a default configuration that works for most traders. There are only a few key steps to check before you begin using it effectively.
 
+***
+
 ### Choose a Recommended Market
 
 For the cleanest structural behaviour, switch to one of the core, high-liquidity markets:
@@ -13,6 +15,8 @@ For the cleanest structural behaviour, switch to one of the core, high-liquidity
 * BNB/USDT
 
 These pairs offer smoother structure, clearer trend development and more consistent timing behaviour.
+
+***
 
 ### Select a Clear Timeframe
 
@@ -29,6 +33,8 @@ Pulse Mini adapts to any timeframe, but clarity increases on stable time horizon
 
 No internal settings need to be changed.
 
+***
+
 ### Keep Your Chart Simple
 
 Pulse Mini is designed to give you a clean structural view.\
@@ -42,6 +48,8 @@ If your chart is overloaded with:
 
 A simple chart reveals Pulse Mini’s behaviour instantly.
 
+***
+
 ### Verify Layer Visibility
 
 Pulse Mini displays all layers automatically:
@@ -51,6 +59,8 @@ Pulse Mini displays all layers automatically:
 * **Timing**
 
 If something looks unusual, refresh the chart or remove/re-add the engine.
+
+***
 
 ### Everything Is Ready
 

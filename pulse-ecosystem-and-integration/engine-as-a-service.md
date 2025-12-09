@@ -4,6 +4,8 @@ Pulse engines are not indicators. They are **modular structural engines** that c
 
 Pulse Mini introduces a new concept in crypto trading: **Engine-as-a-Service**. A self-contained, behaviour-driven engine that provides structural intelligence to any system — without requiring code integration or script embedding.
 
+***
+
 ### A Modular, Independent Engine
 
 Pulse Mini operates as a standalone component that can be used:
@@ -17,6 +19,8 @@ Pulse Mini operates as a standalone component that can be used:
 It does not depend on external indicators or tools.
 
 The engine reads. External systems act.
+
+***
 
 ### Clean Separation of Roles
 
@@ -37,6 +41,8 @@ This creates a clean, conflict-free architecture:
 
 No overlap. No interference.
 
+***
+
 ### Compatible with Any Workflow
 
 Because Pulse Mini sends structure externally (via alerts, JSON, and webhooks), it can be used with:
@@ -51,6 +57,8 @@ Because Pulse Mini sends structure externally (via alerts, JSON, and webhooks), 
 
 Pulse does not need to be embedded inside a script. It operates as a **strategic context layer** that any system can consume.
 
+***
+
 ### Why This Architecture Matters
 
 Engine-as-a-Service provides several advantages:
@@ -63,6 +71,8 @@ Engine-as-a-Service provides several advantages:
 * consistent behaviour across markets
 
 Pulse becomes the **structural brain** of your workflow. Everything else remains flexible and replaceable.
+
+***
 
 ### Pulse Mini as the First Engine-as-a-Service Layer
 

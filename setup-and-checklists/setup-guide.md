@@ -6,6 +6,8 @@ Pulse Mini is most effective when used in markets and timeframes that naturally 
 
 This section provides a practical setup guide to ensure clarity, stability, and consistency while using the engine.
 
+***
+
 ### Primary Markets
 
 Pulse Mini works on any crypto market, but its structural clarity is strongest on the **Golden Five**:
@@ -25,6 +27,8 @@ These pairs offer:
 
 They represent the cleanest environment for learning and applying the Pulse Method.
 
+***
+
 ### Secondary Markets
 
 These markets are not intended for trading, but they provide useful **regime context**:
@@ -33,6 +37,8 @@ These markets are not intended for trading, but they provide useful **regime con
 * USDC/USD
 
 They help understand macro stability, but should not be used for Pulse Mini execution.
+
+***
 
 ### Market Setup
 
@@ -44,6 +50,8 @@ The most reliable results come from markets that:
 * limit distortion from cross-volatility
 
 This is why the recommended setup is centred around the Golden Five. Other symbols can be explored, but they should be secondary to the core environment.
+
+***
 
 ### Timeframes
 
@@ -60,6 +68,8 @@ Pulse Mini adapts to all TradingView timeframes, but clarity increases as noise 
 #### Lower Timeframes
 
 **15m** and **30m** are fully supported, but naturally more noisy. Recommended only once you are familiar with the engine’s behaviour.
+
+***
 
 ### Why Timeframe Choice Matters
 
@@ -78,10 +88,18 @@ Higher timeframes create:
 
 Pulse Mini becomes more expressive as noise decreases.
 
+***
+
 ### TradingView Setup
+
+***
 
 ### 3Commas Setup
 
+***
+
 ### Exchanges Supported
+
+***
 
 ### Requirements

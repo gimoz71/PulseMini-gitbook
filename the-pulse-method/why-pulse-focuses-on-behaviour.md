@@ -4,6 +4,8 @@ Pulse is built on the idea that **behaviour is more trustworthy, stable, and uni
 
 Indicators try to infer meaning from formulas. Predictive models try to anticipate future outcomes. Pulse does neither. It observes how the market behaves — directly, without assumptions.
 
+***
+
 ### The Limits of Predictive Models
 
 Many trading systems rely on:
@@ -23,6 +25,8 @@ All these approaches share one fatal assumption that **market behaviour is stabl
 * markets mutate faster than models adapt
 
 What works in one regime collapses in the next.
+
+***
 
 ### Behaviour Does Not Break under Market Stress
 
@@ -44,6 +48,8 @@ This makes behaviour:
 * less sensitive to distortion
 * universally applicable across pairs and timeframes
 
+***
+
 ### Behaviour Provides Clarity without Prediction
 
 Pulse does not ask: **“Where will the price go?”**. Instead, it asks: **“How is the market behaving right now?”**. This shift creates:
@@ -55,6 +61,8 @@ Pulse does not ask: **“Where will the price go?”**. Instead, it asks: **“H
 * better alignment with real market dynamics
 
 Behaviours cannot predict the future — but they can tell you whether the present environment is worth acting on.
+
+***
 
 ### Behaviour Is Already Embedded in the Market
 
@@ -73,6 +81,8 @@ These behaviours happen regardless of:
 * user settings
 
 Pulse simply surfaces what is already there.
+
+***
 
 ### Behaviour Scales across All Engines
 

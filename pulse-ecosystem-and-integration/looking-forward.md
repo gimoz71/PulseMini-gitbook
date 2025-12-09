@@ -4,6 +4,8 @@ The Pulse Method is designed as a long-term framework — a stable foundation th
 
 The philosophy never changes. Only the _depth_ of interpretation increases.
 
+***
+
 ### Mini — The Beginning
 
 Pulse Mini introduces the core principles:
@@ -16,6 +18,8 @@ Pulse Mini introduces the core principles:
 
 Mini is intentionally simple. Its purpose is to teach traders how to read the market the way Pulse reads it. It is the gateway to the entire method.
 
+***
+
 ### Essential — Expansion of Structural Reading
 
 Pulse Essential deepens the same framework by adding:
@@ -26,6 +30,8 @@ Pulse Essential deepens the same framework by adding:
 * more robust context filters
 
 Essential does not change the method. It **expands the structural map** introduced by Mini.
+
+***
 
 ### Pro — Full-Depth Structural Intelligence
 
@@ -39,6 +45,8 @@ Pulse Pro will deliver a more advanced expression of the method:
 It is designed for users who need full-depth analysis and maximum structural detail.
 
 Pro is the complete form of the method — but built on the _same_ principles taught by Mini.
+
+***
 
 ### Dashboard — The Operational Layer
 
@@ -54,6 +62,8 @@ The WaveLabs Dashboard will eventually connect:
 The Dashboard acts **on top of** the engines — it never replaces or modifies their logic.
 
 Pulse reads. Dashboard manages. Automation executes.
+
+***
 
 ### The Future is Layered, Modular, and Consistent
 

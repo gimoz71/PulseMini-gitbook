@@ -10,6 +10,8 @@ The goal of this section is to help you understand:
 
 Pulse Mini reduces noise and highlights the elements of market behaviour that consistently matter for decision-making.
 
+***
+
 ### Behaviour Over Prediction
 
 Traditional indicators often rely on:
@@ -30,6 +32,8 @@ Pulse Mini takes a different approach:
 * it highlights clarity and suppresses noise
 
 No predictions. No econometric modelling. Just structural awareness.
+
+***
 
 ### Why Behaviour Matters
 
@@ -54,6 +58,8 @@ Pulse Mini identifies these behaviours and shows when the environment is:
 
 This behavioural reading replaces complex analysis with a clean, consistent interpretation of what the market is doing **right now**.
 
+***
+
 ### Layered Interpretation Made Simple
 
 Instead of interpreting dozens of signals, Pulse Mini organises behaviour into three intuitive layers:
@@ -65,6 +71,8 @@ Instead of interpreting dozens of signals, Pulse Mini organises behaviour into t
 These layers exist in every liquid market. Pulse Mini does not invent them — it reveals them.
 
 Understanding how they interact allows you to make clearer, calmer, and more structured decisions.
+
+***
 
 ### Consistency Across Markets and Timeframes
 

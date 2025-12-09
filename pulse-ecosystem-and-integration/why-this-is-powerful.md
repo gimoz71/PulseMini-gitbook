@@ -6,6 +6,8 @@ Most trading systems attempt to solve the market by stacking tools, signals, fil
 
 This is what makes Pulse Mini fundamentally different — and fundamentally more useful.
 
+***
+
 ### Most Systems Fail Because They Lack Context
 
 Bots and indicators often:
@@ -18,6 +20,8 @@ Bots and indicators often:
 * ignore structural instability
 
 Without context, even a good strategy behaves poorly. Pulse Mini solves this by providing the missing ingredient: **structural awareness**.
+
+***
 
 ### Structural Intelligence Makes Everything More Reliable
 
@@ -32,6 +36,8 @@ By focusing on real market behaviour (trend, phase, timing), Pulse Mini gives an
 
 It doesn’t need to predict — it needs to understand.
 
+***
+
 ### A Clean Separation between Thinking and Acting
 
 Pulse Mini reads. Your tools execute. This separation eliminates:
@@ -44,6 +50,8 @@ Pulse Mini reads. Your tools execute. This separation eliminates:
 
 It creates a modular, predictable, and scalable architecture.
 
+***
+
 ### Non-Repainting Stability
 
 Because Pulse Mini focuses on structural behaviour:
@@ -53,6 +61,8 @@ Because Pulse Mini focuses on structural behaviour:
 * it does not smooth data artificially
 
 What the engine shows is what the market produced in that moment. This stability is extremely rare in the world of TradingView scripts and automated workflows.
+
+***
 
 ### Works Everywhere Without Integration Problems
 
@@ -70,6 +80,8 @@ Because it acts as an **external intelligence layer**, it never conflicts with y
 
 Your logic stays yours. Pulse makes it smarter.
 
+***
+
 ### Simplicity Scales Better Than Complexity
 
 Complex systems fail when conditions change. Pulse Mini succeeds because:
@@ -81,6 +93,8 @@ Complex systems fail when conditions change. Pulse Mini succeeds because:
 * the method is independent of indicators or formulas
 
 Simplicity is not a limitation — it is resilience.
+
+***
 
 ### The Core Philosophy
 
