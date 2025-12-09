@@ -9,17 +9,17 @@
   * [What Pulse Mini Does](overview/what-pulse-mini-does.md)
   * [What Pulse Mini Does Not Do](overview/what-pulse-mini-does-not-do.md)
   * [How to Use This Guide](overview/how-to-use-this-guide.md)
+* [Getting Started](getting-started/README.md "GETTING STARTED")
+  * [Get Started](getting-started/get-started.md)
+  * [Before You Start](getting-started/before-you-start.md)
 
 ## Getting Started
 
-* [Getting Started](getting-started/getting-started.md)
-* [Get Started](getting-started/get-started.md)
-* [Before You Start](getting-started/before-you-start.md)
-* [First-Run Setup](getting-started/first-run-setup.md)
-* [Reading Your First Signals](getting-started/reading-your-first-signals.md)
-* [Understanding Your Tools](getting-started/understanding-your-tools.md)
-* [Learn](getting-started/learn.md)
-* [Mini Decision Flow](getting-started/mini-decision-flow.md)
+* [First-Run Setup](getting-started-1/first-run-setup.md)
+* [Reading Your First Signals](getting-started-1/reading-your-first-signals.md)
+* [Understanding Your Tools](getting-started-1/understanding-your-tools.md)
+* [Learn](getting-started-1/learn.md)
+* [Mini Decision Flow](getting-started-1/mini-decision-flow.md)
 
 ## The Pulse Method
 
