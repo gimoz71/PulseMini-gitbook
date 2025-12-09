@@ -1,6 +1,6 @@
 # Why Pulse Focuses on Behaviour
 
-Pulse is built on the idea that **behaviour is more trustworthy, stable, and universally interpretable than prediction**.
+**Pulse** is built on the idea that **behaviour is more trustworthy, stable, and universally interpretable than prediction**.
 
 Indicators try to infer meaning from formulas. Predictive models try to anticipate future outcomes. Pulse does neither. It observes how the market behaves — directly, without assumptions.
 
@@ -86,7 +86,7 @@ Pulse simply surfaces what is already there.
 
 ### Behaviour Scales across All Engines
 
-* Pulse **Mini** reads behaviour in simplified form.
+* **Pulse Mini** reads behaviour in simplified form.
 * **Essential** expands horizontal and transitional behaviour.
 * **Pro** deepens structural depth and timing resolution.
 

@@ -31,7 +31,7 @@ Expansion phases typically produce:
 * better alignment across layers
 * fewer false impulses
 
-Pulse Mini becomes more expressive in expansion.
+**Pulse Mini** becomes more expressive in expansion.
 
 ***
 
@@ -54,7 +54,7 @@ During contraction:
 * instability increases
 * better to wait than to act
 
-Contraction is where traders often force trades — Pulse Mini avoids these traps.
+Contraction is where traders often force trades — **Pulse Mini** avoids these traps.
 
 ***
 
@@ -71,7 +71,7 @@ Characteristics:
 
 Transitions are inherently unstable.
 
-Pulse Mini treats them conservatively because:
+**Pulse Mini** treats them conservatively because:
 
 * behaviour is inconsistent
 * direction is unclear
@@ -93,7 +93,7 @@ Phase determines:
 
 Without understanding the phase, traders operate blind — entering during the worst possible conditions.
 
-Pulse Mini makes phase behaviour visible and readable.
+**Pulse Mini** makes phase behaviour visible and readable.
 
 ***
 

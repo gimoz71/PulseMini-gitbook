@@ -1,6 +1,6 @@
 # A Natural Technical Integration
 
-Pulse Mini operates as an independent behavioural module that can be embedded into any trading workflow without creating conflicts, overlaps, or logical interference.
+**Pulse Mini** operates as an independent behavioural module that can be embedded into any trading workflow without creating conflicts, overlaps, or logical interference.
 
 Its structural reading is clean, non-predictive, and non-repainting, which makes it a natural “engine layer” for any system that requires reliable market context.
 
@@ -14,7 +14,7 @@ It provides **structural intelligence** — nothing more, nothing less.
 
 ### What “Engine-as-a-Service” Means
 
-Pulse Mini delivers one thing extremely well: **behavioural clarity of the current market environment.**
+**Pulse Mini** delivers one thing extremely well: **behavioural clarity of the current market environment.**
 
 This clarity can be consumed by any external system via:
 
@@ -104,7 +104,7 @@ This allows:
 * SmartTrade automation
 * custom bot platforms
 
-…to use Pulse Mini as a behavioural layer without touching its source code. This is exactly what makes it an **Engine-as-a-Service**.
+…to use **Pulse Mini** as a behavioural layer without touching its source code. This is exactly what makes it an **Engine-as-a-Service**.
 
 ***
 

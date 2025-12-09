@@ -1,6 +1,6 @@
 # Daily Checklist
 
-Pulse Mini works best when used inside a stable, repeatable routine. This daily checklist helps you begin each session with clarity and maintain consistency throughout your workflow.
+**Pulse Mini** works best when used inside a stable, repeatable routine. This daily checklist helps you begin each session with clarity and maintain consistency throughout your workflow.
 
 A full review takes less than two minutes.
 
@@ -61,7 +61,7 @@ If the three layers (Trend, Phase, Timing) are misaligned:
 * wait for the structure to return
 * avoid forcing trades
 
-Pulse Mini protects you by making uncertainty visible.
+**Pulse Mini** protects you by making uncertainty visible.
 {% endstep %}
 {% endstepper %}
 

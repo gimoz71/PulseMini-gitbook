@@ -33,8 +33,8 @@ Inside the _Create Alert_ panel, select:
 
 For example:
 
-* _Pulse Mini v1.2 — Entry Long_
-* _Pulse Mini v1.2 — Exit Short_
+* _**Pulse Mini** v1.2 — Entry Long_
+* _**Pulse Mini** v1.2 — Exit Short_
 
 Then choose:
 
@@ -42,7 +42,7 @@ Then choose:
 * **Webhook URL** (optional)
 * **Notification settings**
 
-Pulse Mini triggers the alert only when Trend, Phase, and Timing align structurally.
+**Pulse Mini** triggers the alert only when Trend, Phase, and Timing align structurally.
 
 ***
 
@@ -58,7 +58,7 @@ Steps:
 6. Insert a JSON message in the **Message** field
 7. Save
 
-Pulse Mini will fire the alert when the structural alignment appears.
+**Pulse Mini** will fire the alert when the structural alignment appears.
 
 ***
 
@@ -115,7 +115,7 @@ SmartTrade example:
 
 3Commas interprets the payload based on your SmartTrade or bot configuration.
 
-Pulse Mini provides the signal — 3Commas executes it.
+**Pulse Mini** provides the signal — 3Commas executes it.
 
 ***
 

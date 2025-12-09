@@ -22,7 +22,7 @@ It provides:
 * Pine Script integration
 * webhook support for automation
 
-Pulse Mini lives entirely inside TradingView:
+**Pulse Mini** lives entirely inside TradingView:
 
 * reads behaviour
 * expresses its layers

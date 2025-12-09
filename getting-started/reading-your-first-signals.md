@@ -1,6 +1,6 @@
 # Reading Your First Signals
 
-Once Pulse Mini is active on your chart, you will begin to see how the engine organises market behaviour through its three simplified layers. You don’t need to interpret everything at once — the engine is designed to guide your eye naturally.
+Once **Pulse Mini** is active on your chart, you will begin to see how the engine organises market behaviour through its three simplified layers. You don’t need to interpret everything at once — the engine is designed to guide your eye naturally.
 
 ***
 
@@ -50,7 +50,7 @@ Even in a clean trend, poor timing reduces the quality of entries.
 
 ### Watch for Natural Alignment
 
-Pulse Mini does **not** generate signals from a single condition. Signals appear only when multiple structural elements align naturally.
+**Pulse Mini** does **not** generate signals from a single condition. Signals appear only when multiple structural elements align naturally.
 
 This is what gives the engine:
 
@@ -65,7 +65,7 @@ Aligned layers lead to cleaner conditions. Divergent layers lead to a noisy or u
 
 ### Take Your Time
 
-You don’t need to rush into trades. Spend some time watching how the three layers interact as the price moves. You will quickly see how Pulse Mini helps:
+You don’t need to rush into trades. Spend some time watching how the three layers interact as the price moves. You will quickly see how **Pulse Mini** helps:
 
 * filter out impulsive entries
 * avoid noise

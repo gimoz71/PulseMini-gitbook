@@ -1,6 +1,6 @@
 # How Pulse Interprets Market Structure
 
-Pulse Mini reads the market through the lens of **real behaviour**, not through synthetic indicators or predictive formulas.
+**Pulse Mini** reads the market through the lens of **real behaviour**, not through synthetic indicators or predictive formulas.
 
 Its interpretation is built on three foundational elements that appear in all liquid markets:
 
@@ -10,7 +10,7 @@ Its interpretation is built on three foundational elements that appear in all li
 
 These layers work together to form a consistent structural map of the environment.
 
-Pulse Mini does not analyse price with indicators — it observes how price behaves.
+**Pulse Mini** does not analyse price with indicators — it observes how price behaves.
 
 ***
 
@@ -23,7 +23,7 @@ Traditional indicators often:
 * produce conflicting signals
 * react to noise instead of suppressing it
 
-Pulse Mini takes the opposite approach:
+**Pulse Mini** takes the opposite approach:
 
 * no smoothing
 * no oscillators
@@ -36,7 +36,7 @@ Instead, it reads the _natural organisation of price_ as it unfolds.
 
 ### Present-Focused Interpretation
 
-Pulse Mini focuses exclusively on the **current environment**, evaluating:
+**Pulse Mini** focuses exclusively on the **current environment**, evaluating:
 
 * directional stability
 * expansion vs contraction
@@ -53,7 +53,7 @@ Clean behaviour today is more actionable than a prediction about tomorrow.
 
 ### Alignment as a Structural Signal
 
-Pulse Mini does not produce signals from a single condition. A structural confirmation appears only when:
+**Pulse Mini** does not produce signals from a single condition. A structural confirmation appears only when:
 
 * Trend is aligned
 * Phase is clean
@@ -61,7 +61,7 @@ Pulse Mini does not produce signals from a single condition. A structural confir
 
 This natural alignment reflects moments when the market shows coherence.
 
-When layers diverge, structure breaks, and the engine stays neutral. This keeps Pulse Mini:
+When layers diverge, structure breaks, and the engine stays neutral. This keeps **Pulse Mini**:
 
 * stable
 * consistent
@@ -72,7 +72,7 @@ When layers diverge, structure breaks, and the engine stays neutral. This keeps 
 
 ### A Universal Interpretation Model
 
-Because Pulse Mini reads structure directly from price, it adapts smoothly across:
+Because **Pulse Mini** reads structure directly from price, it adapts smoothly across:
 
 * different markets
 * different timeframes

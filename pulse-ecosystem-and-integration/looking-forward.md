@@ -8,7 +8,7 @@ The philosophy never changes. Only the _depth_ of interpretation increases.
 
 ### Mini — The Beginning
 
-Pulse Mini introduces the core principles:
+**Pulse Mini** introduces the core principles:
 
 * behavioural reading
 * structural interpretation

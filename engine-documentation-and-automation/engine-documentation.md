@@ -18,7 +18,7 @@ layout:
 
 # Engine Documentation & Automation
 
-Pulse Mini is a simplified expression of the Pulse Market Engine. Its purpose is to provide a **clean, stable and non-repainting** interpretation of market behaviour through three core layers:
+**Pulse Mini** is a simplified expression of the Pulse Market Engine. Its purpose is to provide a **clean, stable and non-repainting** interpretation of market behaviour through three core layers:
 
 * Trend
 * Phase
@@ -32,7 +32,7 @@ This chapter introduces the engine’s design philosophy before diving into each
 
 ### What Makes Pulse Mini Different
 
-Unlike traditional indicators built on formulas, oscillators, or smoothing functions, Pulse Mini:
+Unlike traditional indicators built on formulas, oscillators, or smoothing functions, **Pulse Mini**:
 
 * does **not** rely on moving averages
 * does **not** use oscillators
@@ -46,7 +46,7 @@ Instead, it observes how price behaves in real time and reduces noise by focusin
 * behavioural transitions
 * momentum continuity vs instability
 
-Pulse Mini reads behaviour — not indicators.
+**Pulse Mini** reads behaviour — not indicators.
 
 ***
 
@@ -78,9 +78,9 @@ Signals appear only when:
 * Phase is clear
 * Timing is supportive
 
-Pulse Mini does **not** force triggers during unstable environments. It prefers neutrality over noise.
+**Pulse Mini** does **not** force triggers during unstable environments. It prefers neutrality over noise.
 
-This is why Pulse Mini feels “calmer” than most indicators — it ignores low-quality conditions and highlights only structural clarity.
+This is why **Pulse Mini** feels “calmer” than most indicators — it ignores low-quality conditions and highlights only structural clarity.
 
 ***
 
@@ -98,7 +98,7 @@ This preserves stability and dramatically reduces false or low-quality signals.
 
 ### Reading First, Acting Later
 
-Pulse Mini separates:
+**Pulse Mini** separates:
 
 * **market reading** (Pulse)
 * **execution** (manual or automated)

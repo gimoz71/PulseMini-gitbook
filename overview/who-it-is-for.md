@@ -14,7 +14,7 @@ You do not need advanced technical analysis knowledge to benefit from Pulse Mini
 
 ### For Manual Traders
 
-If you trade manually, Pulse Mini helps you:
+If you trade manually, **Pulse Mini** helps you:
 
 * avoid impulsive entries
 * chase moves less often
@@ -28,20 +28,20 @@ It offers a clean, objective, and easy-to-read interpretation of market structur
 
 ### For Automation Users
 
-If you already use tools like TradingView alerts or automation platforms such as 3Commas, Pulse Mini gives you a more reliable foundation for:
+If you already use tools like TradingView alerts or automation platforms such as 3Commas, **Pulse Mini** gives you a more reliable foundation for:
 
 * filtering out low-quality setups
 * improving bot stability
 * reducing false signals
 * avoiding trades in chaotic environments
 
-Pulse Mini provides context intelligence that external automation tools do not have.
+**Pulse Mini** provides context intelligence that external automation tools do not have.
 
 ***
 
 ### For Traders Who Want Structure
 
-Pulse Mini is for traders who value:
+**Pulse Mini** is for traders who value:
 
 * clarity over prediction
 * behaviour over complexity

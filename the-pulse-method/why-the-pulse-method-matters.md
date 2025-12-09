@@ -37,7 +37,7 @@ The method replaces complexity with clarity, and guesswork with structure.
 
 ### Mini as the First Expression of the Method
 
-Pulse Mini is the simplest and most accessible implementation of the Pulse Method. It teaches the core habit: **read structure first and act only when conditions align**.
+**Pulse Mini** is the simplest and most accessible implementation of the Pulse Method. It teaches the core habit: **read structure first and act only when conditions align**.
 
 Mini focuses on:
 

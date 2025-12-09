@@ -15,7 +15,7 @@ This is what makes Pulse engines intuitive: each layer expresses one type of inf
 
 ### How Layered Interpretation Works
 
-Pulse Mini uses three simplified layers:
+**Pulse Mini** uses three simplified layers:
 
 #### Trend — Direction of Movement
 
@@ -59,4 +59,4 @@ Layered interpretation is identical across the entire Pulse ecosystem:
 
 But the method — the way the market is read — never changes.
 
-Pulse Mini is the first expression of this layered approach, delivered in its cleanest form.
+**Pulse Mini** is the first expression of this layered approach, delivered in its cleanest form.

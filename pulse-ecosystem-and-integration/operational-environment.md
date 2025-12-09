@@ -18,7 +18,7 @@ TradingView provides:
 * consistent alert execution
 * a stable interface for the engine
 
-Pulse Mini reads the structure directly on TradingView. Nothing is modified or preprocessed — the engine interprets the price exactly as it is.
+**Pulse Mini** reads the structure directly on TradingView. Nothing is modified or preprocessed — the engine interprets the price exactly as it is.
 
 ***
 

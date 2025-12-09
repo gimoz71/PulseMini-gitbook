@@ -1,6 +1,6 @@
 # Important Note
 
-Pulse Mini does not create, define, or modify any payloads used for automation. It only triggers your TradingView alert when structural market conditions are aligned.
+**Pulse Mini** does not create, define, or modify any payloads used for automation. It only triggers your TradingView alert when structural market conditions are aligned.
 
 All automation, execution, and order-handling behaviour depends entirely on the tools you connect.
 
@@ -10,7 +10,7 @@ This distinction is essential for clarity, safety, and correct usage of the Puls
 
 ### What Pulse Mini Does Not Do
 
-Pulse Mini does **not**:
+**Pulse Mini** does **not**:
 
 * execute trades
 * place orders
@@ -21,7 +21,7 @@ Pulse Mini does **not**:
 * send instructions to bots
 * operate autonomously
 
-Pulse Mini is not a trading bot, not a signal service, and not an automated system.
+**Pulse Mini** is not a trading bot, not a signal service, and not an automated system.
 
 It is a **market-reading engine**.
 
@@ -37,7 +37,7 @@ The payload inside your alert is:
 
 TradingView delivers the message. 3Commas interprets it. Bots execute it. Exchanges fill it.
 
-Pulse Mini does **not** participate in any of these steps.
+**Pulse Mini** does **not** participate in any of these steps.
 
 ***
 
@@ -52,7 +52,7 @@ Keeping the reading layer separate from the execution layer ensures:
 * clean integration workflows
 * predictable behaviour regardless of tools used
 
-Pulse Mini remains neutral, consistent, and independent.
+**Pulse Mini** remains neutral, consistent, and independent.
 
 ***
 
@@ -65,13 +65,13 @@ The correct instruction formats vary based on your setup. Always refer to:
 * your API bot or framework documentation
 * your custom automation logic
 
-Pulse Mini cannot generate payload standards because each system has its own requirements.
+**Pulse Mini** cannot generate payload standards because each system has its own requirements.
 
 ***
 
 ### Final Reminder
 
-Pulse Mini provides:
+**Pulse Mini** provides:
 
 * structural clarity
 * behavioural consistency

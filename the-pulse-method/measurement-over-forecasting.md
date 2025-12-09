@@ -95,7 +95,7 @@ This stability is impossible in predictive models.
 
 ### Measurement Is the Foundation of All Pulse Engines
 
-Pulse Mini applies measurement in its simplest and cleanest form.\
+**Pulse Mini** applies measurement in its simplest and cleanest form.\
 Essential and Pro deepen this measurement with:
 
 * more refined structural filters

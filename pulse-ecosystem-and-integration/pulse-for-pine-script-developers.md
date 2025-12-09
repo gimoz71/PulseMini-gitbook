@@ -18,9 +18,9 @@ Pulse Mini can improve almost any custom script by providing:
 * timing coherence for short-term behaviour
 * a stability layer that prevents trading in chaotic conditions
 
-Instead of relying on MA crosses, RSI thresholds or arbitrary indicator conditions, Pulse Mini acts as a **structural validity check**.
+Instead of relying on MA crosses, RSI thresholds or arbitrary indicator conditions, **Pulse Mini** acts as a **structural validity check**.
 
-Your script keeps its logic. Pulse Mini tells you when the environment makes sense.
+Your script keeps its logic. **Pulse Mini** tells you when the environment makes sense.
 
 ***
 
@@ -30,7 +30,7 @@ Here are the most common integrations used by developers:
 
 #### Conditional Execution
 
-Let your bot fire only when Pulse Mini confirms:
+Let your bot fire only when **Pulse Mini** confirms:
 
 * trend is aligned
 * phase is clean
@@ -40,7 +40,7 @@ If any of these fail, skip the signal.
 
 #### Noise Reduction Filter
 
-Pass your internal signal through Pulse Mini’s environment filter:
+Pass your internal signal through **Pulse Mini**’s environment filter:
 
 ```
 Your Signal
@@ -65,7 +65,7 @@ Condition oscillators such as:
 * MFI
 * custom momentum tools
 
-Example: “Use RSI OB/OS logic _only_ when Pulse Mini confirms a clear trend.” This instantly turns any oscillator into a **context-aware oscillator**.
+Example: “Use RSI OB/OS logic _only_ when **Pulse Mini** confirms a clear trend.” This instantly turns any oscillator into a **context-aware oscillator**.
 
 #### Trend & Phase Gating
 
@@ -78,7 +78,7 @@ This eliminates most false positives common in retail systems.
 
 #### Trigger-Control Layer
 
-Pulse Mini can act as a pre-execution gate for:
+**Pulse Mini** can act as a pre-execution gate for:
 
 * entries
 * exits
@@ -86,13 +86,13 @@ Pulse Mini can act as a pre-execution gate for:
 * breakout filters
 * volatility-dependent bots
 
-Your triggers stay the same. Pulse Mini makes them smarter.
+Your triggers stay the same. **Pulse Mini** makes them smarter.
 
 ***
 
 ### Ghost Mode — Invisible Integration
 
-Many developers want Pulse Mini’s intelligence without affecting chart visuals.
+Many developers want **Pulse Mini’s** intelligence without affecting chart visuals.
 
 Ghost Mode provides exactly that:
 
@@ -102,7 +102,7 @@ Ghost Mode provides exactly that:
 * perfect for custom indicators
 * zero UI interference
 
-Pulse Mini runs silently while your script remains visually dominant.
+**Pulse Mini** runs silently while your script remains visually dominant.
 
 ***
 

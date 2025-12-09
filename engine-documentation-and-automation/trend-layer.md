@@ -1,8 +1,8 @@
 # Trend Layer
 
-The Trend Layer is the backbone of Pulse Mini’s structural reading. It identifies the dominant direction of the market and establishes the broad environment in which all other behaviours develop.
+The Trend Layer is the backbone of **Pulse Mini**’s structural reading. It identifies the dominant direction of the market and establishes the broad environment in which all other behaviours develop.
 
-Pulse Mini does **not** calculate trend using moving averages, smoothing functions, or regression models. It reads trend as **behaviour** — directly from price.
+**Pulse Mini** does **not** calculate trend using moving averages, smoothing functions, or regression models. It reads trend as **behaviour** — directly from price.
 
 ***
 
@@ -35,7 +35,7 @@ In a clear trend:
 * timing follows more naturally
 * phase transitions are smoother
 
-Pulse Mini tends to be more expressive when the trend is stable.
+**Pulse Mini** tends to be more expressive when the trend is stable.
 
 ***
 
@@ -92,7 +92,7 @@ Trend answers the question: **“Is the market moving in a direction or not?”*
 
 ### Summary
 
-The Trend Layer is the first filter in Pulse Mini’s interpretation. It does not predict — it reveals.
+The Trend Layer is the first filter in **Pulse Mini**’s interpretation. It does not predict — it reveals.
 
 A stable trend supports:
 

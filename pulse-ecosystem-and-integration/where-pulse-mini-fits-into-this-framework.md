@@ -1,6 +1,6 @@
 # Where Pulse Mini Fits Into This Framework
 
-Pulse Mini is the simplest, cleanest, and most accessible expression of the Pulse Method. It applies behavioural measurement without predictive components and focuses entirely on structural clarity.
+**Pulse Mini** is the simplest, cleanest, and most accessible expression of the Pulse Method. It applies behavioural measurement without predictive components and focuses entirely on structural clarity.
 
 Mini embodies the core philosophy: **“Read the present with precision. Don’t guess the future.”**
 
@@ -8,7 +8,7 @@ Mini embodies the core philosophy: **“Read the present with precision. Don’t
 
 ### What Mini Actually Does
 
-Pulse Mini captures and expresses:
+**Pulse Mini** captures and expresses:
 
 * recurring behavioural patterns
 * real directional behaviour
@@ -111,7 +111,7 @@ Mini’s behavioural reading is:
 * independent
 * modular
 
-This makes Pulse Mini a perfect context layer for:
+This makes **Pulse Mini** a perfect context layer for:
 
 * manual traders
 * Pine scripts

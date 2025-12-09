@@ -2,13 +2,13 @@
 
 Most price movements are noise — small fluctuations, unstable micro-swings and reactions that do not reflect meaningful structure. Traditional indicators often react to this noise, creating misleading or low-value signals.
 
-Pulse Mini takes the opposite approach. Its purpose is to show **only the structural information that consistently matters**.
+**Pulse Mini** takes the opposite approach. Its purpose is to show **only the structural information that consistently matters**.
 
 ***
 
 ### Designed to Ignore Irrelevant Movements
 
-Pulse Mini filters out:
+**Pulse Mini** filters out:
 
 * random volatility spikes
 * micro-swings
@@ -17,13 +17,13 @@ Pulse Mini filters out:
 * unstable transitions
 * compression noise
 
-These behaviours distort traditional indicators, but Pulse Mini is built to ignore them.
+These behaviours distort traditional indicators, but **Pulse Mini** is built to ignore them.
 
 ***
 
 ### Focus on Structural Elements
 
-Instead of reacting to every price movement, Pulse Mini evaluates:
+Instead of reacting to every price movement, **Pulse Mini** evaluates:
 
 * directional stability
 * phase behaviour
@@ -46,7 +46,7 @@ Noise is responsible for:
 * overtrading
 * sudden reversals
 
-By filtering noise, Pulse Mini:
+By filtering noise, **Pulse Mini**:
 
 * protects you from low-quality environments
 * reduces emotional trading
@@ -59,7 +59,7 @@ You see only what is meaningful — nothing more.
 
 ### Non-Repainting Behaviour
 
-Because Pulse Mini focuses on structure rather than indicators:
+Because **Pulse Mini** focuses on structure rather than indicators:
 
 * it does **not** recalculate past signals
 * it does **not** adjust previous candles

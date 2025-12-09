@@ -1,10 +1,10 @@
 # Introduction
 
-Pulse Mini runs directly inside TradingView and is designed to be easy to install and simple to use from the very first moment.
+**Pulse Mini** runs directly inside TradingView and is designed to be easy to install and simple to use from the very first moment.
 
 This section guides you through:
 
-* adding Pulse Mini to your chart
+* adding **Pulse Mini** to your chart
 * understanding the default configuration
 * preparing your workspace for the clearest experience
 
@@ -12,7 +12,7 @@ This section guides you through:
 
 ### What to Expect on First Install
 
-When you load Pulse Mini for the first time, the engine:
+When you load **Pulse Mini** for the first time, the engine:
 
 * automatically applies its default settings
 * displays the Trend, Phase and Timing layers
@@ -44,7 +44,7 @@ Start with 1H, 2H, or 4H for the most stable structure.
 {% step %}
 #### Remove unnecessary indicators
 
-Pulse Mini works with any chart setup, but too many tools reduce clarity. A clean chart shows the engine’s structure best.
+**Pulse Mini** works with any chart setup, but too many tools reduce clarity. A clean chart shows the engine’s structure best.
 {% endstep %}
 
 {% step %}
@@ -59,7 +59,7 @@ If something looks off → refresh or toggle the indicator once.
 
 ### What Happens after Setup
 
-Once Pulse Mini is active:
+Once **Pulse Mini** is active:
 
 * the chart reorganises into a clean structural view
 * trend behaviour becomes clear at a glance
@@ -72,7 +72,7 @@ You are now ready to begin reading your first conditions and understanding the s
 
 ### No Commitment Required
 
-Pulse Mini can be used:
+**Pulse Mini** can be used:
 
 * manually
 * with alerts

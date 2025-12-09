@@ -1,6 +1,6 @@
 # How to Use This Guide
 
-This guide is designed to help you understand Pulse Mini step by step.
+This guide is designed to help you understand **Pulse Mini** step by step.
 
 You can:
 
@@ -17,7 +17,7 @@ Each chapter serves a specific purpose in the learning process.
 
 This section explains how to:
 
-* add Pulse Mini to TradingView
+* add **Pulse Mini** to TradingView
 * configure the engine for the first time
 * check that layers are displaying correctly
 
@@ -27,7 +27,7 @@ This is your initial onboarding.
 
 This section explains:
 
-* why Pulse focuses on market behavior and avoids mathematical predictions
+* why **Pulse** focuses on market behavior and avoids mathematical predictions
 * how the Pulse engine interprets trend, phase, timing, and structural behaviour
 
 It gives you the mental framework used by Pulse.
@@ -51,7 +51,7 @@ This section provides practical recommendations on:
 * daily and weekly routines
 * how to maintain consistency
 * how to create TradingView alerts
-* how to connect Pulse Mini to webhook-based automation
+* how to connect **Pulse Mini** to webhook-based automation
 * how to inintegrate with platforms like 3Commas
 
 This is your operational foundation.
@@ -65,10 +65,10 @@ This section explores:
 * how alignment forms
 * internal logic such as phase, context, and timing
 * creating TradingView alerts
-* connecting Pulse Mini to webhook-based automation
+* connecting **Pulse Mini** to webhook-based automation
 * integrating with platforms like 3Commas
 
-This is the technical backbone of Pulse Mini.
+This is the technical backbone of **Pulse Mini**.
 
 ***
 
@@ -76,7 +76,7 @@ This is the technical backbone of Pulse Mini.
 
 * You don't need to memorise anything.
 * You can return to any section at any moment.
-* Pulse Mini is straightforward; the guide simply _supports your workflow_.
+* **Pulse Mini** is straightforward; the guide simply _supports your workflow_.
 
 ***
 
@@ -89,18 +89,18 @@ It is **not**:
 * a profit-promise document
 * a bot configuration manual
 
-It is a **reading and workflow guide** that helps you integrate Pulse Mini into your own trading approach.
+It is a **reading and workflow guide** that helps you integrate **Pulse Mini** into your own trading approach.
 
 ***
 
 ### The Goal of This Guide
 
-The Pulse Mini guide aims to help you:
+The **Pulse Mini** guide aims to help you:
 
 * read structure with clarity
 * avoid low-quality conditions
-* understand how Pulse Mini behaves
+* understand how **Pulse Mini** behaves
 * integrate it properly into your daily routine
 * maintain consistency
 
-Pulse Mini is simple; this guide makes your use of it consistent.
+**Pulse Mini** is simple; this guide makes your use of it consistent.

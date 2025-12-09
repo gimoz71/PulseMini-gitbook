@@ -1,6 +1,6 @@
 # Cross-Crypto Pairs and Structural Integrity
 
-Pulse Mini is designed to read **structural behaviour** — trend, phase, and timing — in the cleanest possible way. Cross-crypto pairs introduce distortions that make this reading less stable, less consistent, and often unreliable. For this reason, cross pairs are **not part of the core Pulse environment**.
+**Pulse Mini** is designed to read **structural behaviour** — trend, phase, and timing — in the cleanest possible way. Cross-crypto pairs introduce distortions that make this reading less stable, less consistent, and often unreliable. For this reason, cross pairs are **not part of the core Pulse environment**.
 
 ***
 
@@ -28,7 +28,7 @@ Expansion → contraction cycles break faster and more erratically.
 
 #### High Noise, Low Coherence
 
-The micro-structure becomes chaotic, weakening Pulse Mini’s ability to read alignment.
+The micro-structure becomes chaotic, weakening **Pulse Mini’s** ability to read alignment.
 
 ***
 
@@ -43,13 +43,13 @@ Stable-base markets (BTC/USDT, ETH/USDT, XRP/USDT, SOL/USDT, BNB/USDT) offer:
 * more reliable timing patterns
 * clearer alignment across layers
 
-These conditions allow Pulse Mini to express its architecture without distortion.
+These conditions allow **Pulse Mini** to express its architecture without distortion.
 
 ***
 
 ### Should You Use Cross Pairs?
 
-Pulse Mini remains functional across all assets.\
+**Pulse Mini** remains functional across all assets.\
 But cross pairs should be treated as:
 
 * experimental environments
@@ -58,7 +58,7 @@ But cross pairs should be treated as:
 * **not** recommended for automation
 * **not** suitable for learning the method
 
-Cross pairs amplify noise — and noise is exactly what Pulse Mini is designed to remove.
+Cross pairs amplify noise — and noise is exactly what **Pulse Mini** is designed to remove.
 
 ### Why This Matters for the Method
 
@@ -72,7 +72,7 @@ The Pulse Method is built on:
 
 When these elements are disrupted, the method becomes less effective.
 
-Cross pairs don’t “break” Pulse Mini — they simply violate the structural conditions that make the method powerful.
+Cross pairs don’t “break” **Pulse Mini** — they simply violate the structural conditions that make the method powerful.
 
 ***
 

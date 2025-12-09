@@ -1,6 +1,6 @@
 # Mini Decision Flow
 
-Pulse Mini does not rely on rigid rules or mechanical triggers. Instead, it reads how the **Trend**, **Phase**, and **Timing** layers interact in real time and highlights environments where structure is naturally clearer.
+**Pulse Mini** does not rely on rigid rules or mechanical triggers. Instead, it reads how the **Trend**, **Phase**, and **Timing** layers interact in real time and highlights environments where structure is naturally clearer.
 
 The engine acts only when the market behaves coherently.
 
@@ -44,7 +44,7 @@ Even in a clear trend, poor timing weakens the environment.
 
 ### Step 4 — Look for Alignment
 
-Alignment is the core of Pulse Mini. The engine highlights clearer conditions only when:
+Alignment is the core of **Pulse Mini**. The engine highlights clearer conditions only when:
 
 * Trend
 * Phase
@@ -54,7 +54,7 @@ Alignment is the core of Pulse Mini. The engine highlights clearer conditions on
 
 Aligned layers lead to a structured environment. Divergent layers lead to noise, instability, and caution.
 
-Pulse Mini prefers neutrality over forcing signals — this is what keeps it stable and non-repainting.
+**Pulse Mini** prefers neutrality over forcing signals — this is what keeps it stable and **non-repainting**.
 
 ***
 
@@ -62,7 +62,7 @@ Pulse Mini prefers neutrality over forcing signals — this is what keeps it sta
 
 The decision flow becomes intuitive as you watch the engine in real time.
 
-Pulse Mini reduces the decision-making process to a few clear observations:
+**Pulse Mini** reduces the decision-making process to a few clear observations:
 
 * Is the trend aligned?
 * Is the phase clean?

@@ -4,7 +4,7 @@ Within the Pulse Method, one principle is constant: **clarity comes from choosin
 
 Not all markets are structurally equal. Some produce noise, irregular swings, and unstable micro-structure. Others create smooth, readable behaviour that aligns naturally with Pulse.
 
-The **Golden Five** represent the markets where Pulse Mini expresses maximum clarity.
+The **Golden Five** represent the markets where **Pulse Mini** expresses maximum clarity.
 
 ***
 

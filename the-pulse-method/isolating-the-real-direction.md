@@ -99,7 +99,7 @@ This prevents:
 
 ### Why This Matters for Pulse Mini
 
-Pulse Mini applies directional reading in its simplest form:
+**Pulse Mini** applies directional reading in its simplest form:
 
 * it reveals a clean direction
 * it hides weak or fragmented conditions

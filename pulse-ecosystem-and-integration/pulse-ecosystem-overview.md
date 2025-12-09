@@ -2,7 +2,7 @@
 
 Pulse is built around **one method**. Every component in the ecosystem is simply a deeper or broader expression of the same structural logic.
 
-This chapter provides a minimal orientation, helping readers understand how Pulse Mini fits into the larger framework.
+This chapter provides a minimal orientation, helping readers understand how **Pulse Mini** fits into the larger framework.
 
 ***
 
@@ -11,7 +11,7 @@ This chapter provides a minimal orientation, helping readers understand how Puls
 **Status:** Released\
 **Role:** First expression of the method
 
-Pulse Mini focuses on:
+**Pulse Mini** focuses on:
 
 * directional behaviour
 * clear structural reading

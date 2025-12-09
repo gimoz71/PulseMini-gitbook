@@ -1,6 +1,6 @@
 # Payload Examples
 
-Pulse Mini does not generate or modify payloads. It only triggers your TradingView alert when structural conditions align. You choose the JSON message to send based on the automation platform you use.
+**Pulse Mini** does not generate or modify payloads. It only triggers your TradingView alert when structural conditions align. You choose the JSON message to send based on the automation platform you use.
 
 Different tools require different payload structures. This chapter provides clear examples for the two most common environments: 3Commas Bots and 3Commas SmartTrades.
 
@@ -90,7 +90,7 @@ TradingView replaces template variables like:
 
 …with real-time values before sending the payload.
 
-Pulse Mini does not modify this process. It only triggers the alert.
+**Pulse Mini** does not modify this process. It only triggers the alert.
 
 ***
 
@@ -110,12 +110,12 @@ TradingView will report formatting errors (JSON invalid) or delivery issues (web
 
 ### Summary
 
-* Pulse Mini does **not** create payloads
+* **Pulse Mini** does **not** create payloads
 * You define the message
 * 3Commas Bots require `"signal": "buy"` / `"sell" \`
 * SmartTrades accepts custom `"action"` keywords
 * Custom systems accept any JSON format
 * TradingView handles variable substitution
-* Pulse Mini simply triggers the alert when the structure is aligned
+* **Pulse Mini** simply triggers the alert when the structure is aligned
 
 Pulse Mini provides the structural condition. Your automation tool interprets the payload.

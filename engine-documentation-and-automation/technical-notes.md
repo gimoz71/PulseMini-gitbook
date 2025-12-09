@@ -39,7 +39,7 @@ Pulse does not approximate structure — it reads it.
 
 ### Why Pulse Mini Is Non-Repainting
 
-Pulse Mini never:
+**Pulse Mini** never:
 
 * revises historical triggers
 * redraws previous conditions
@@ -63,7 +63,7 @@ Regression and statistical forecasting assume:
 
 Crypto markets violate these assumptions constantly. This makes predictive models unstable and unreliable.
 
-Pulse Mini avoids prediction entirely. It focuses on **measurement**, not anticipation.
+**Pulse Mini** avoids prediction entirely. It focuses on **measurement**, not anticipation.
 
 Behavioural measurement is:
 
@@ -86,7 +86,7 @@ Moving averages:
 * create false reversals during compression
 * obscure real behaviour
 
-Pulse Mini reads **raw market structure**, which is more accurate than any smoothed derivative of price.
+**Pulse Mini** reads **raw market structure**, which is more accurate than any smoothed derivative of price.
 
 * **Structure** → truth
 * **Smoothing** → distortion
@@ -95,7 +95,7 @@ Pulse Mini reads **raw market structure**, which is more accurate than any smoot
 
 ### Structural Invariance across Timeframes
 
-Pulse Mini maintains the same internal logic on 1H, 2H, 4H, and 1D. This is possible because:
+**Pulse Mini** maintains the same internal logic on 1H, 2H, 4H, and 1D. This is possible because:
 
 * behaviour scales
 * structure scales
@@ -107,7 +107,7 @@ Pulse does not adapt parameters. It reads behaviour consistently across all time
 
 ### Micro-Structure and Noise Handling
 
-Pulse Mini is designed to ignore:
+**Pulse Mini** is designed to ignore:
 
 * micro-noise
 * erratic swings

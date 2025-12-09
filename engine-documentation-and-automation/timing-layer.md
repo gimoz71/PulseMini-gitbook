@@ -61,7 +61,7 @@ Weak timing warns that the price may:
 * compress
 * or produce low-quality conditions
 
-Pulse Mini becomes more cautious when timing weakens — even if trend and phase appear supportive.
+**Pulse Mini** becomes more cautious when timing weakens — even if trend and phase appear supportive.
 
 ***
 
@@ -96,7 +96,7 @@ Timing answers the question: **“Is this moment stable enough to act?”**
 
 ### Summary
 
-The Timing Layer is Pulse Mini’s moment-to-moment filter.
+The Timing Layer is **Pulse Mini**’s moment-to-moment filter.
 
 * **Strong Timing** → support
 * **Weak Timing** → caution

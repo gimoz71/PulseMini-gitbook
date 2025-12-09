@@ -37,7 +37,7 @@ Flow: **Pulse Mini → TradingView Alerts → Webhook → Automation Tool**
 
 The alert triggers only when the structural alignment appears. The webhook forwards the alert to your automation platform.
 
-Pulse Mini does not modify the message — you decide the payload.
+**Pulse Mini** does not modify the message — you decide the payload.
 
 ***
 
@@ -70,7 +70,7 @@ Pulse provides intelligence. 3Commas provides action.
 
 ### Other Automation Environments
 
-Pulse Mini can be integrated into:
+**Pulse Mini** can be integrated into:
 
 * Python trading bots
 * Node.js bots
@@ -85,7 +85,7 @@ Any tool capable of receiving:
 * webhook payloads
 * structured JSON inputs
 
-…can use Pulse Mini as a behavioural intelligence layer.
+…can use **Pulse Mini** as a behavioural intelligence layer.
 
 ***
 
@@ -108,7 +108,7 @@ Bots operate blindly. Pulse gives them context.
 
 ### Human vs Automated Interpretation
 
-Pulse Mini works perfectly:
+**Pulse Mini** works perfectly:
 
 * with manual traders
 * with semi-automated workflows

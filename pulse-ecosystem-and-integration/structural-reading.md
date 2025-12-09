@@ -37,7 +37,7 @@ Structural Reading ensures that the engine always operates on reality — not as
 
 ### The Three Elements of Structure
 
-Pulse Mini builds its entire logic around three behavioural layers:
+**Pulse Mini** builds its entire logic around three behavioural layers:
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h3><mark style="color:$primary;">Trend</mark> </h3><h4>Direction of Movement</h4></td><td>Shows whether the market is moving upward, downward, or losing cohesion.</td></tr><tr><td><h3><mark style="color:$primary;">Phase</mark></h3><h4>Quality of Movement</h4></td><td>Expansions, contractions, transitions and structural shifts.</td></tr><tr><td><h3><mark style="color:$primary;">Timing</mark></h3><h4>Rhythm of Movement</h4></td><td>Short-term behaviour that confirms or contradicts the broader environment.</td></tr></tbody></table>
 
@@ -79,7 +79,7 @@ This means:
 * fewer chaotic entries
 * fewer emotional decisions
 
-Most systems try to generate more signals. Pulse Mini tries to generate **better structure**.
+Most systems try to generate more signals. **Pulse Mini** tries to generate **better structure**.
 
 The philosophy is simple: **If the environment is not clear, doing nothing is the correct decision.**
 
@@ -91,9 +91,9 @@ Structural Reading is not a feature. It is the foundation of the entire Pulse ec
 
 It remains unchanged across:
 
-* Pulse Mini
-* Pulse Essential
-* Pulse Pro
-* Pulse Dashboard
+* **Pulse Mini**
+* **Pulse Essential**
+* **Pulse Pro**
+* **Pulse Dashboard**
 
 What changes is the _depth_ — never the underlying method.

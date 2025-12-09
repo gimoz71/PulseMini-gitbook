@@ -4,7 +4,7 @@ The Decision Matrix is the internal process Pulse Mini uses to determine whether
 
 It does not rely on rigid rules, fixed thresholds, or predefined patterns. Instead, it evaluates how **Trend**, **Phase,** and **Timing** interact in real time.
 
-Pulse Mini does not assign scores or probabilities. It reads **alignment**.
+**Pulse Mini** does not assign scores or probabilities. It reads **alignment**.
 
 ***
 
@@ -40,7 +40,7 @@ Timing determines whether the moment itself supports action.
 
 ### Alignment vs Divergence
 
-Pulse Mini expects **natural alignment**, not perfection.
+**Pulse Mini** expects **natural alignment**, not perfection.
 
 A structured environment emerges when:
 
@@ -70,7 +70,7 @@ Traditional systems use formulas like:
 
 These tend to fire in noisy conditions and ignore structure.
 
-Pulse Mini takes the opposite approach:
+**Pulse Mini** takes the opposite approach:
 
 * no numeric thresholds
 * no forced triggers

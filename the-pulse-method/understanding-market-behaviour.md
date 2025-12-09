@@ -64,7 +64,7 @@ Forecasting pushes traders to anticipate. Behaviour teaches traders to observe.
 
 ### Behaviour in Pulse Mini
 
-Pulse Mini reads behaviour in its purest, simplest form:
+**Pulse Mini** reads behaviour in its purest, simplest form:
 
 * **trend** = directional behaviour
 * **phase** = structural behaviour

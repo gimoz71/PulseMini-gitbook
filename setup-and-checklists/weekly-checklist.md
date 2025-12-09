@@ -105,4 +105,4 @@ This routine brings:
 * discipline
 * better long-term results
 
-By stepping back once a week, you maintain perspective and give Pulse Mini the space to express its full clarity.
+By stepping back once a week, you maintain perspective and give **Pulse Mini** the space to express its full clarity.

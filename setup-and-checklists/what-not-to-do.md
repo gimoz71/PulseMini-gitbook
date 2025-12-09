@@ -1,6 +1,6 @@
 # What Not to Do
 
-Pulse Mini is designed to simplify and clarify your reading of the market. To maintain this clarity and avoid introducing noise, it’s important to avoid common habits that weaken structural interpretation.
+**Pulse Mini** is designed to simplify and clarify your reading of the market. To maintain this clarity and avoid introducing noise, it’s important to avoid common habits that weaken structural interpretation.
 
 This chapter outlines what _not_ to do when using the Pulse Method.
 
@@ -21,13 +21,13 @@ Focus on the Golden Five unless you have a clear reason to explore alternatives.
 
 ### Do Not Use Ultra-Low Timeframes
 
-Charts such as **1m**, **3m**, **5m** introduce heavy micro-noise. Pulse Mini remains functional, but clarity drops sharply, making the reading less reliable and far more reactive.
+Charts such as **1m**, **3m**, **5m** introduce heavy micro-noise. **Pulse Mini** remains functional, but clarity drops sharply, making the reading less reliable and far more reactive.
 
 ***
 
 ### Do Not Chase Every Move
 
-Pulse Mini reveals structure, not micro-swings. If the engine is calm, it means the environment is not structurally favourable.
+**Pulse Mini** reveals structure, not micro-swings. If the engine is calm, it means the environment is not structurally favourable.
 
 Chasing moves outside of alignment leads to:
 
@@ -75,7 +75,7 @@ Skipping the higher-level view makes decisions less accurate and more reactive.
 
 ### Do Not Expect Prediction
 
-Pulse Mini does **not** guess the future price. It reveals the present clearly — your judgment completes the process.
+**Pulse Mini** does **not** guess the future price. It reveals the present clearly — your judgment completes the process.
 
 Expecting forecasting from a behavioural engine leads to misinterpretation and misuse.
 
@@ -91,4 +91,4 @@ Avoiding these habits keeps your workflow:
 * consistent
 * aligned with real market behaviour
 
-Pulse Mini protects you when you let it work — not when you fight the method.
+**Pulse Mini** protects you when you let it work — not when you fight the method.

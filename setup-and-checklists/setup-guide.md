@@ -2,7 +2,7 @@
 
 ***
 
-Pulse Mini is most effective when used in markets and timeframes that naturally support clean structural behaviour.
+**Pulse Mini** is most effective when used in markets and timeframes that naturally support clean structural behaviour.
 
 This section provides a practical setup guide to ensure clarity, stability, and consistency while using the engine.
 
@@ -10,7 +10,7 @@ This section provides a practical setup guide to ensure clarity, stability, and 
 
 ### Primary Markets
 
-Pulse Mini works on any crypto market, but its structural clarity is strongest on the **Golden Five**:
+**Pulse Mini** works on any crypto market, but its structural clarity is strongest on the **Golden Five**:
 
 * BTC/USDT
 * ETH/USDT
@@ -36,7 +36,7 @@ These markets are not intended for trading, but they provide useful **regime con
 * USDT/USD
 * USDC/USD
 
-They help understand macro stability, but should not be used for Pulse Mini execution.
+They help understand macro stability, but should not be used for **Pulse Mini** execution.
 
 ***
 
@@ -55,7 +55,7 @@ This is why the recommended setup is centred around the Golden Five. Other symbo
 
 ### Timeframes
 
-Pulse Mini adapts to all TradingView timeframes, but clarity increases as noise decreases.
+**Pulse Mini** adapts to all TradingView timeframes, but clarity increases as noise decreases.
 
 #### Core Timeframes
 
@@ -86,7 +86,7 @@ Higher timeframes create:
 * smoother transitions
 * more reliable timing windows
 
-Pulse Mini becomes more expressive as noise decreases.
+**Pulse Mini** becomes more expressive as noise decreases.
 
 ***
 

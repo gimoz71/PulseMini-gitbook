@@ -8,7 +8,7 @@ Pulse Mini does **not** generate signals using traditional indicators, fixed rul
 
 A trigger is simply the moment when the market expresses a clean structure across all layers at once.
 
-Pulse Mini never anticipates movement — it confirms **what is structurally true right now**.
+**Pulse Mini** never anticipates movement — it confirms **what is structurally true right now**.
 
 ***
 
@@ -54,7 +54,7 @@ Triggers tend to appear when:
 
 In other words: when the market is behaving cleanly.
 
-Pulse Mini highlights these moments because they represent high-quality structural clarity.
+**Pulse Mini** highlights these moments because they represent high-quality structural clarity.
 
 ***
 
@@ -68,7 +68,7 @@ Triggers become rare when:
 * timing hesitates or becomes reactive
 * volatility behaves irrationally
 
-Pulse Mini prefers **neutrality** over forcing signals. This is what keeps the engine non-repainting and stable.
+**Pulse Mini** prefers **neutrality** over forcing signals. This is what keeps the engine non-repainting and stable.
 
 ***
 
@@ -76,7 +76,7 @@ Pulse Mini prefers **neutrality** over forcing signals. This is what keeps the e
 
 Low-frequency, high-quality structural confirmations are intentional.
 
-Pulse Mini avoids:
+**Pulse Mini** avoids:
 
 * chaotic moments
 * fake breakouts

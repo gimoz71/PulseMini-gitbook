@@ -1,6 +1,6 @@
 # Multi-Layer Framework
 
-Pulse Mini organises market behaviour into **three simplified structural layers**. Each layer captures a different dimension of price movement, and together they form the backbone of Pulse’s behavioural reading.
+**Pulse Mini** organises market behaviour into **three simplified structural layers**. Each layer captures a different dimension of price movement, and together they form the backbone of Pulse’s behavioural reading.
 
 The goal is simple: understand the environment quickly and focus only on conditions that make sense.
 
@@ -18,7 +18,7 @@ It helps you understand whether the environment favours:
 
 A **stable, clean trend** creates clearer structural conditions. A **weakening or flattening trend** often signals hesitation and reduced clarity.
 
-Pulse Mini identifies trend as **behaviour**, not as a moving average or smoothing formula.
+**Pulse Mini** identifies trend as **behaviour**, not as a moving average or smoothing formula.
 
 ***
 
@@ -67,4 +67,4 @@ Simply observe:
 * when they align, the structure is clear
 * when they diverge, the structure weakens or breaks
 
-Aligned layers form naturally. They are not forced by formulas or thresholds. This is what makes Pulse Mini intuitive, stable, and non-repainting.
+Aligned layers form naturally. They are not forced by formulas or thresholds. This is what makes **Pulse Mini** intuitive, stable, and non-repainting.

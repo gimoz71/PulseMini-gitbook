@@ -106,7 +106,7 @@ Mathematical prediction tries to impose structure. Pulse reveals the structure t
 
 ### Why Pulse Mini Must Avoid Prediction
 
-Pulse Mini is the purest form of the Method.
+**Pulse Mini** is the purest form of the Method.
 
 If it added:
 

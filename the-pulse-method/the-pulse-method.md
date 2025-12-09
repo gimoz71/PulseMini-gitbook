@@ -4,7 +4,7 @@ Pulse is not an indicator. It is a **method** — a structured way of reading ma
 
 The Pulse Method defines **how engines think**, how they organise information, and how traders achieve cleaner decisions across different market environments.
 
-Pulse Mini is the first expression of this method. Essential and Pro expand the same framework with deeper structural intelligence.
+**Pulse Mini** is the first expression of this method. Essential and Pro expand the same framework with deeper structural intelligence.
 
 ***
 
@@ -32,7 +32,7 @@ Pulse breaks market behaviour into separate layers, so the trader does not analy
 * **Phase** → structural quality
 * **Timing** → short-term rhythm
 
-Pulse Mini uses three simplified layers. Essential and Pro expand these layers with more depth, but the **method stays consistent**.
+**Pulse Mini** uses three simplified layers. Essential and Pro expand these layers with more depth, but the **method stays consistent**.
 
 Layering ensures:
 

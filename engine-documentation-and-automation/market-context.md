@@ -4,9 +4,9 @@ This section contains the full technical documentation of the Pulse engine layer
 
 ***
 
-Market Context is the broad structural environment in which the price is moving. It is the foundation of Pulse Mini’s reading, influencing how Trend, Phase, and Timing behave, and how clearly they can align.
+Market Context is the broad structural environment in which the price is moving. It is the foundation of **Pulse Mini**’s reading, influencing how Trend, Phase, and Timing behave, and how clearly they can align.
 
-Pulse Mini does not label context explicitly — it reacts to it.
+**Pulse Mini** does not label context explicitly — it reacts to it.
 
 ***
 
@@ -39,7 +39,7 @@ In these environments:
 * signals are clearer
 * structural behaviour is easier to follow
 
-Stable context is where Pulse Mini expresses maximum clarity.
+Stable context is where **Pulse Mini** expresses maximum clarity.
 
 ***
 
@@ -60,7 +60,7 @@ During an unstable context:
 * caution increases naturally
 * the engine becomes more neutral
 
-Pulse Mini does not force structure where none exists.
+**Pulse Mini** does not force structure where none exists.
 
 ***
 
@@ -74,7 +74,7 @@ Market context determines how the engine interprets the other layers:
 
 Context shapes structure. Structure shapes signals.
 
-This is why Pulse Mini behaves differently in different environments — the engine reads what reality presents, not what fixed rules expect.
+This is why **Pulse Mini** behaves differently in different environments — the engine reads what reality presents, not what fixed rules expect.
 
 ***
 
@@ -94,9 +94,9 @@ Context does not tell you what to trade — it tells you whether the market dese
 
 ### Summary
 
-Market context is the invisible frame behind Pulse Mini’s clarity. It is not a rule, not an indicator, and not a prediction — it is the environment that determines how structure forms.
+Market context is the invisible frame behind **Pulse Mini**’s clarity. It is not a rule, not an indicator, and not a prediction — it is the environment that determines how structure forms.
 
-Pulse Mini adapts to context naturally:
+**Pulse Mini** adapts to context naturally:
 
 * **Stable context** → more expressive engine
 * **Unstable context** → more conservative engine

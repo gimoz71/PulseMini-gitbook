@@ -1,10 +1,10 @@
 # Behavioural Reading
 
-Pulse does not use regression, statistical forecasting, or econometric modeling. Instead, it reads markets through **behaviour** — the most direct, reliable, and observable form of market information.
+**Pulse** does not use regression, statistical forecasting, or econometric modeling. Instead, it reads markets through **behaviour** — the most direct, reliable, and observable form of market information.
 
 Behavioural Reading is the foundation of the Pulse Method. It focuses on recurring structural behaviours rather than predicting outcomes.
 
-Pulse Mini is the purest expression of this approach.
+**Pulse Mini** is the purest expression of this approach.
 
 ***
 
@@ -96,7 +96,7 @@ Pulse avoids regression and statistical models not because they are “wrong”,
 
 As Kaufman would say:
 
-> <mark style="color:$primary;">Prediction is attractive in theory, but measurement is what survives the real market.</mark>
+> _<mark style="color:$primary;">Prediction is attractive in theory, but measurement is what survives the real market.</mark>_
 
 Pulse measures behaviour. It does not forecast it.
 

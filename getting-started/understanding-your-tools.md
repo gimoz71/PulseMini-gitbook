@@ -1,12 +1,12 @@
 # Understanding Your Tools
 
-Pulse Mini works on top of TradingView and focuses on reading the market with clarity and consistency. It does not execute trades, manage positions, or take autonomous actions. This separation is intentional — Pulse Mini is designed to **think**, not to act.
+**Pulse Mini** works on top of TradingView and focuses on reading the market with clarity and consistency. It does not execute trades, manage positions, or take autonomous actions. This separation is intentional — Pulse Mini is designed to **think**, not to act.
 
 ***
 
 ### Pulse Mini’s Role
 
-Pulse Mini provides:
+**Pulse Mini** provides:
 
 * structural reading
 * trend interpretation
@@ -17,7 +17,7 @@ Pulse Mini provides:
 
 It is the **intelligence layer** of your workflow.
 
-Pulse Mini shows when the environment makes sense — nothing more, nothing less.
+**Pulse Mini** shows when the environment makes sense — nothing more, nothing less.
 
 ***
 
@@ -30,13 +30,13 @@ TradingView is the environment where:
 * layers are visualised
 * alerts are triggered
 
-Pulse Mini uses TradingView to express the structure clearly. No extra software is required.
+**Pulse Mini** uses TradingView to express the structure clearly. No extra software is required.
 
 ***
 
 ### Automation Tools and Their Role
 
-If you choose to automate, external tools can act on Pulse Mini’s alerts.
+If you choose to automate, external tools can act on **Pulse Mini**’s alerts.
 
 The most common example is **3Commas**, which can:
 
@@ -53,7 +53,7 @@ However:
 
 This keeps the workflow clean:
 
-**Pulse Mini reads → TradingView alerts → 3Commas executes** (optional)
+Pulse Mini **reads → TradingView alerts → 3Commas executes** (optional)
 
 ***
 
@@ -74,7 +74,7 @@ You keep full control over:
 * your automation settings
 * your risk parameters
 
-Pulse Mini remains independent and consistent in all conditions.
+**Pulse Mini** remains independent and consistent in all conditions.
 
 ***
 
@@ -82,7 +82,7 @@ Pulse Mini remains independent and consistent in all conditions.
 
 Whether you trade manually or through automation:
 
-* Pulse Mini filters out bad conditions
+* **Pulse Mini** filters out bad conditions
 * highlights clear structural moments
 * keeps you aligned with behaviour
 * prevents impulsive decisions
