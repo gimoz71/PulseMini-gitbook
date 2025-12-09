@@ -10,7 +10,7 @@
   * [What Pulse Mini Does Not Do](overview/what-pulse-mini-does-not-do.md)
   * [How to Use This Guide](overview/how-to-use-this-guide.md)
 * [Getting Started](getting-started/README.md "GETTING STARTED")
-  * [Get Started](getting-started/get-started.md)
+  * [Introduction](getting-started/introduction.md "Introduction")
   * [Before You Start](getting-started/before-you-start.md)
 
 ## Getting Started
