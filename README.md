@@ -37,5 +37,3 @@ Welcome to Pulse Mini. This section introduces the core idea behind the engine, 
 {% content-ref url="overview/how-to-use-this-guide.md" %}
 [how-to-use-this-guide.md](overview/how-to-use-this-guide.md)
 {% endcontent-ref %}
-
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Introduction</td><td><a href="README (1).md">README (1).md</a></td><td></td></tr><tr><td>Why Pulse Mini Works</td><td><a href="overview/why-pulse-mini-works.md">why-pulse-mini-works.md</a></td><td></td></tr><tr><td>What Pulse Mini Is</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
