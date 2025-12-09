@@ -77,7 +77,7 @@ Even in automated systems:
 
 Execution can be handled by:
 
-* 3Commas
+* [3Commas](https://app.3commas.io/d?utm_source=referral\&utm_medium=cabinet\&c=tc2078885)
 * custom bots
 * Python/Node.js systems
 * proprietary infrastructure
