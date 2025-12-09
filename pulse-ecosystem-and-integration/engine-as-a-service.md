@@ -1,9 +1,5 @@
 # Engine-as-a-Service
 
-This section explains how Pulse fits into the broader ecosystem: technical integrations, developer usage, external automations, and why the Pulse architecture scales across systems.
-
-***
-
 Pulse engines are not indicators. They are **modular structural engines** that can operate independently or be integrated into any trading workflow.
 
 Pulse Mini introduces a new concept in crypto trading: **Engine-as-a-Service**. A self-contained, behaviour-driven engine that provides structural intelligence to any system — without requiring code integration or script embedding.

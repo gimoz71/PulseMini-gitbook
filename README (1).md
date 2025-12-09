@@ -1,7 +1,3 @@
----
-description: Prova di inserimento di una descrizione
----
-
 # Introduction
 
 Trading is not difficult because markets are complicated. Trading is difficult because the information we receive is noisy, fragmented, and overwhelming. Most traders don’t fail because they lack skill. They fail because they cannot see clearly.
