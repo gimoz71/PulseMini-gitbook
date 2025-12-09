@@ -4,9 +4,13 @@ Pulse Mini is designed for crypto traders who want a clearer way to understand w
 
 It is suitable for both beginners and intermediate traders who use TradingView and want a structured, simplified view of trend, market phases and timing conditions.
 
+***
+
 ### No Need for Advanced Technical Knowledge
 
 You do not need advanced technical analysis knowledge to benefit from Pulse Mini. If you can navigate TradingView, you can use Pulse Mini.
+
+***
 
 ### For Manual Traders
 
@@ -20,6 +24,8 @@ If you trade manually, Pulse Mini helps you:
 
 It offers a clean, objective, and easy-to-read interpretation of market structure.
 
+***
+
 ### For Automation Users
 
 If you already use tools like TradingView alerts or automation platforms such as 3Commas, Pulse Mini gives you a more reliable foundation for:
@@ -30,6 +36,8 @@ If you already use tools like TradingView alerts or automation platforms such as
 * avoiding trades in chaotic environments
 
 Pulse Mini provides context intelligence that external automation tools do not have.
+
+***
 
 ### For Traders Who Want Structure
 

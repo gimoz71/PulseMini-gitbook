@@ -1,6 +1,6 @@
 # Why Pulse Mini Works
 
-Pulse Mini is not another indicator. It is a reorganised way of reading the market. Instead of adding complexity, it removes noise and highlights only what truly matters.
+**Pulse Mini** is not another indicator. It is a reorganised way of reading the market. Instead of adding complexity, it removes noise and highlights only what truly matters.
 
 Markets are not hard to understand — they are simply full of distractions. Pulse Mini restores clarity by focusing on structure, not prediction.
 
@@ -12,9 +12,13 @@ Everything in Pulse Mini is built around structure. Price naturally moves throug
 
 This is why Pulse Mini works:
 
+***
+
 * it aligns with how markets actually behave
 * it avoids fighting volatility or chasing signals
 * it reduces artificial complexity
 * it organises reality into a stable, easy-to-read framework
+
+***
 
 A clear system for a noisy world.

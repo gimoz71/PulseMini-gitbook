@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md "OVERVIEW")
-  * [Introduction](<README (1).md>)
+  * [Introduce Pulse](overview/introduce-pulse.md)
   * [Why Pulse Mini Works](overview/why-pulse-mini-works.md)
   * [What Pulse Mini Is](overview/what-pulse-mini-is.md)
   * [Why Pulse Is Not a Bot](overview/why-pulse-is-not-a-bot.md)

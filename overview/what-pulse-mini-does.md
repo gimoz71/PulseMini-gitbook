@@ -16,6 +16,8 @@ The engine provides **stable, non-repainting signals** that reflect real market 
 
 Its purpose is simple: **not to predict the future, but to make the present clearer and easier to read**.
 
+***
+
 ### A Clearer, Unified Market View
 
 Pulse Mini shows only what matters:
@@ -25,6 +27,8 @@ Pulse Mini shows only what matters:
 * timing quality
 
 Everything else is filtered out. This allows you to read the market faster and act only when conditions are structurally aligned.
+
+***
 
 ### Behaviour-First Interpretation
 
@@ -37,6 +41,8 @@ Rather than relying on oscillators or complex formulas, Pulse Mini reads:
 
 This behavioural perspective gives you a clearer understanding of what the market is actually doing right now.
 
+***
+
 ### Noise Reduction
 
 Pulse Mini filters out:
@@ -48,6 +54,8 @@ Pulse Mini filters out:
 * transitional noise
 
 By ignoring low-value information, the engine keeps you focused only on high-quality setups.
+
+***
 
 ### Helps You Trade With More Confidence
 

@@ -10,6 +10,8 @@ This distinction is fundamental to the Pulse Method and is essential for:
 * modular system design
 * compatibility with advanced trading ecosystems
 
+***
+
 ### What Pulse Engines Do Not Do
 
 Pulse engines never:
@@ -26,6 +28,8 @@ Pulse engines never:
 Pulse thinks. Your tools execute.
 
 This division keeps the workflow clean and safe.
+
+***
 
 ### Why This Separation Exists
 
@@ -53,6 +57,8 @@ Traders keep full authority over:
 
 Pulse provides structure, not decisions.
 
+***
+
 ### What Pulse Provides Instead
 
 Pulse gives users:
@@ -66,6 +72,8 @@ Pulse gives users:
 * a consistent interpretation of price behaviour
 
 It does the thinking — not the acting.
+
+***
 
 ### The Philosophy Behind the Choice
 
@@ -85,6 +93,8 @@ Execution can be handled by:
 * any webhook-driven platform
 
 Pulse remains independent, stable, and predictable.
+
+***
 
 ### Future Components Respect the Same Boundary
 
