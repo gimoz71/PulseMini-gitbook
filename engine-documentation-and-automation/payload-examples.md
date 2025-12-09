@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Payload Examples
 
 Pulse Mini does not generate or modify payloads. It only triggers your TradingView alert when structural conditions align. You choose the JSON message to send based on the automation platform you use.

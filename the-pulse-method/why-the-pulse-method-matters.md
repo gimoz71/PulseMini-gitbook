@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Why the Pulse Method Matters
 
 Pulse is not a collection of tools. It is a structured way of seeing the market — a mental model that remains stable across assets, timeframes, and volatility regimes.

@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # What Pulse Mini Does Not Do
 
 Pulse Mini is a **market-reading engine**, not a bot, not a prediction tool, and not a shortcut to profits. Its role is to give you clarity — not to execute, forecast, or manage risk.

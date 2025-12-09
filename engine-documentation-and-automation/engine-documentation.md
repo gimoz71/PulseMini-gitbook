@@ -1,5 +1,4 @@
 ---
-icon: angle-right
 layout:
   width: default
   title:

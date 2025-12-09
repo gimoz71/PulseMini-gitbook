@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # A Natural Technical Integration
 
 Pulse Mini operates as an independent behavioural module that can be embedded into any trading workflow without creating conflicts, overlaps, or logical interference.

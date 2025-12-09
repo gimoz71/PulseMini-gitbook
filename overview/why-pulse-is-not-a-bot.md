@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Why Pulse Is Not a Bot
 
 Pulse engines are **not** trading bots. They are **market-reading engines** designed to provide clarity, structure, and behavioural intelligence — nothing more.

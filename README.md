@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Introduction
 
 Welcome to Pulse Mini. This section introduces the core idea behind the engine, what it does, what it does not do, and who it is designed for. Start here to understand the foundation and purpose of Pulse Mini.
@@ -19,3 +15,4 @@ The moment you see how Pulse Mini organizes the market, you recognize it immedia
 Welcome to a clearer way of trading.
 
 > The market doesn’t reward those who guess. It rewards those who can read what is already in front of them. — Pulse Method Philosophy, g.a.
+

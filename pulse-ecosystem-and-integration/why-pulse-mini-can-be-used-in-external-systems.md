@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Why Pulse Mini Can Be Used in External Systems
 
 TradingView does not allow scripts to import or call each other internally. Because of this, most indicators cannot be combined directly in Pine Script.

@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Trend Layer
 
 The Trend Layer is the backbone of Pulse Mini’s structural reading. It identifies the dominant direction of the market and establishes the broad environment in which all other behaviours develop.

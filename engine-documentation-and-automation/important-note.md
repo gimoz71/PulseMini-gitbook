@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Important Note
 
 Pulse Mini does not create, define, or modify any payloads used for automation. It only triggers your TradingView alert when structural market conditions are aligned.

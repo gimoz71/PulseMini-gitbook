@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Why Pulse Focuses on Behaviour
 
 Pulse is built on the idea that **behaviour is more trustworthy, stable, and universally interpretable than prediction**.

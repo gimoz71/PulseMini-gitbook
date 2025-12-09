@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # What Pulse Mini Does
 
 Pulse Mini organises the market into clear layers so you can understand what is happening without interpreting dozens of signals.

@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Understanding Market Behaviour
 
 The Pulse Method is built on a simple principle: **Markets cannot be predicted — but they can be read with consistency**. Price behaviour is not random. It flows through recurring structural dynamics:

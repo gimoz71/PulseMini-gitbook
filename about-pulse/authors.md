@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Authors
 
 **Gabriele S.**

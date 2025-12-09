@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Weekly Checklist
 
 A weekly reset keeps your perspective aligned with the broader market structure.\

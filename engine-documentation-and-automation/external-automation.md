@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # External Automation
 
 Pulse Mini is a **market-reading engine**, not an execution system. It does not place orders, manage trades, or interact with APIs. If you choose to automate your workflow, this requires **external tools**.

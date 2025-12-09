@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Reading Your First Signals
 
 Once Pulse Mini is active on your chart, you will begin to see how the engine organises market behaviour through its three simplified layers. You don’t need to interpret everything at once — the engine is designed to guide your eye naturally.

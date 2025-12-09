@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # How Developers Can Use Pulse Engines
 
 Pulse Mini is not only a visual engine — it is a modular **behavioural context layer** that developers can integrate into any system through TradingView alerts and webhook payloads.

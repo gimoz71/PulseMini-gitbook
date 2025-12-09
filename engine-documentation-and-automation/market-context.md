@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Market Context
 
 This section contains the full technical documentation of the Pulse engine layers. These are detailed and structured references for advanced users and developers.

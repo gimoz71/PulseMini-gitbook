@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Why This Is Powerful
 
 Pulse Mini is not powerful because it “does more”. It is powerful because it **does less — but with more intelligence**.

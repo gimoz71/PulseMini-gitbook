@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Pulse as a Market Intelligence Layer
 
 Pulse engines are **not** indicators and **not** bots. They operate as an independent **Market Intelligence Layer** that sits between raw market data and any trading workflow.

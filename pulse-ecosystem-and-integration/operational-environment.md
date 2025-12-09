@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Operational Environment
 
 The Pulse Method is not only a way of reading charts — it is a structured workflow. Each component in the ecosystem has a precise role, and none of them overlap. This separation keeps the method clean, predictable, and free from interference.

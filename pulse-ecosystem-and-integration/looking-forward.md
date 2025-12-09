@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Looking Forward
 
 The Pulse Method is designed as a long-term framework — a stable foundation that stays consistent even as new engines, tools, and integrations are added to the ecosystem.

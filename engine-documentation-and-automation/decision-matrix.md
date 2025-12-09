@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Decision Matrix
 
 The Decision Matrix is the internal process Pulse Mini uses to determine whether the market environment is structurally clear or unstable.

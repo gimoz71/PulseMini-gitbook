@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # What Not to Do
 
 Pulse Mini is designed to simplify and clarify your reading of the market. To maintain this clarity and avoid introducing noise, it’s important to avoid common habits that weaken structural interpretation.

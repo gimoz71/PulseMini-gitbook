@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Pulse for Pine Script Developers
 
 Pulse Mini is not just a visual engine — it can operate as an external **behavioural context layer** inside any Pine Script workflow.

@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Settings – Alerts & Automation
 
 Pulse Mini operates entirely inside TradingView. It does not execute trades or manage positions — it simply detects when the market environment is clean, aligned, and structurally favourable.

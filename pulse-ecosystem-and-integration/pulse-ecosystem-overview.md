@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Pulse Ecosystem Overview
 
 Pulse is built around **one method**. Every component in the ecosystem is simply a deeper or broader expression of the same structural logic.

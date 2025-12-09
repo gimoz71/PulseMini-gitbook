@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # What Pulse Mini Is
 
 ### A Lightweight Directional Engine

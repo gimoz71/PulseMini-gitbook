@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # Structural Reading
 
 Structural Reading is the first pillar of the Pulse Method. It defines _how_ the engine interprets the market — not through prediction, not through formulas, but through the natural behaviour of price as it unfolds in real time.
