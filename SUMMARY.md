@@ -12,14 +12,11 @@
 * [Getting Started](getting-started/README.md "GETTING STARTED")
   * [Introduction](getting-started/introduction.md "Introduction")
   * [Before You Start](getting-started/before-you-start.md)
-
-## Getting Started
-
-* [First-Run Setup](getting-started-1/first-run-setup.md)
-* [Reading Your First Signals](getting-started-1/reading-your-first-signals.md)
-* [Understanding Your Tools](getting-started-1/understanding-your-tools.md)
-* [Learn](getting-started-1/learn.md)
-* [Mini Decision Flow](getting-started-1/mini-decision-flow.md)
+  * [First-Run Setup](getting-started/first-run-setup.md)
+  * [Reading Your First Signals](getting-started/reading-your-first-signals.md)
+  * [Understanding Your Tools](getting-started/understanding-your-tools.md)
+  * [Learn](getting-started/learn.md)
+  * [Mini Decision Flow](getting-started/mini-decision-flow.md)
 
 ## The Pulse Method
 
