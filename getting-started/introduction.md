@@ -1,8 +1,4 @@
-# Get Started
-
-
-
-***
+# Introduction
 
 Pulse Mini runs directly inside TradingView and is designed to be easy to install and simple to use from the very first moment.
 

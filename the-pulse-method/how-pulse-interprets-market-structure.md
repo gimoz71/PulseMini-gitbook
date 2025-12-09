@@ -1,9 +1,5 @@
 # How Pulse Interprets Market Structure
 
-H
-
-***
-
 Pulse Mini reads the market through the lens of **real behaviour**, not through synthetic indicators or predictive formulas.
 
 Its interpretation is built on three foundational elements that appear in all liquid markets:

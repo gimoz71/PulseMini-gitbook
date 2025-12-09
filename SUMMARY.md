@@ -17,21 +17,18 @@
   * [Understanding Your Tools](getting-started/understanding-your-tools.md)
   * [Learn](getting-started/learn.md)
   * [Mini Decision Flow](getting-started/mini-decision-flow.md)
-
-## The Pulse Method
-
-* [Introduction](the-pulse-method/introduction.md)
-* [How Pulse Interprets Market Structure](the-pulse-method/how-pulse-interprets-market-structure.md)
-* [Multi-Layer Framework](the-pulse-method/multi-layer-framework.md)
-* [The Pulse Method](the-pulse-method/the-pulse-method.md)
-* [Behavioural Reading](the-pulse-method/behavioural-reading.md)
-* [Understanding Market Behaviour](the-pulse-method/understanding-market-behaviour.md)
-* [Why Pulse Focuses on Behaviour](the-pulse-method/why-pulse-focuses-on-behaviour.md)
-* [Isolating the Real Direction](the-pulse-method/isolating-the-real-direction.md)
-* [Why Pulse Avoids Mathematical Prediction](the-pulse-method/why-pulse-avoids-mathematical-prediction.md)
-* [Measurement over Forecasting](the-pulse-method/measurement-over-forecasting.md)
-* [Noise Reduction Logic](the-pulse-method/noise-reduction-logic.md)
-* [Why the Pulse Method Matters](the-pulse-method/why-the-pulse-method-matters.md)
+* [The Pulse Method](the-pulse-method/README.md "THE PULSE METHOD")
+  * [How Pulse Interprets Market Structure](the-pulse-method/how-pulse-interprets-market-structure.md)
+  * [Multi-Layer Framework](the-pulse-method/multi-layer-framework.md)
+  * [The Pulse Method](the-pulse-method/the-pulse-method.md)
+  * [Behavioural Reading](the-pulse-method/behavioural-reading.md)
+  * [Understanding Market Behaviour](the-pulse-method/understanding-market-behaviour.md)
+  * [Why Pulse Focuses on Behaviour](the-pulse-method/why-pulse-focuses-on-behaviour.md)
+  * [Isolating the Real Direction](the-pulse-method/isolating-the-real-direction.md)
+  * [Why Pulse Avoids Mathematical Prediction](the-pulse-method/why-pulse-avoids-mathematical-prediction.md)
+  * [Measurement over Forecasting](the-pulse-method/measurement-over-forecasting.md)
+  * [Noise Reduction Logic](the-pulse-method/noise-reduction-logic.md)
+  * [Why the Pulse Method Matters](the-pulse-method/why-the-pulse-method-matters.md)
 
 ## Pulse Ecosystem & Integration
 
