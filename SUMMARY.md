@@ -1,18 +1,18 @@
 # Table of contents
 
-## Overview
-
-* [Introduction](README.md)
-* [Why Pulse Mini Works](overview/why-pulse-mini-works.md)
-* [What Pulse Mini Is](overview/what-pulse-mini-is.md)
-* [Why Pulse Is Not a Bot](overview/why-pulse-is-not-a-bot.md)
-* [Who It Is For](overview/who-it-is-for.md)
-* [What Pulse Mini Does](overview/what-pulse-mini-does.md)
-* [What Pulse Mini Does Not Do](overview/what-pulse-mini-does-not-do.md)
-* [How to Use This Guide](overview/how-to-use-this-guide.md)
+* [Overview](README.md "OVERVIEW")
+  * [Introduction](<README (1).md>)
+  * [Why Pulse Mini Works](overview/why-pulse-mini-works.md)
+  * [What Pulse Mini Is](overview/what-pulse-mini-is.md)
+  * [Why Pulse Is Not a Bot](overview/why-pulse-is-not-a-bot.md)
+  * [Who It Is For](overview/who-it-is-for.md)
+  * [What Pulse Mini Does](overview/what-pulse-mini-does.md)
+  * [What Pulse Mini Does Not Do](overview/what-pulse-mini-does-not-do.md)
+  * [How to Use This Guide](overview/how-to-use-this-guide.md)
 
 ## Getting Started
 
+* [Getting Started](getting-started/getting-started.md)
 * [Get Started](getting-started/get-started.md)
 * [Before You Start](getting-started/before-you-start.md)
 * [First-Run Setup](getting-started/first-run-setup.md)
@@ -23,6 +23,7 @@
 
 ## The Pulse Method
 
+* [Introduction](the-pulse-method/introduction.md)
 * [How Pulse Interprets Market Structure](the-pulse-method/how-pulse-interprets-market-structure.md)
 * [Multi-Layer Framework](the-pulse-method/multi-layer-framework.md)
 * [The Pulse Method](the-pulse-method/the-pulse-method.md)
