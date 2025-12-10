@@ -2,4 +2,4 @@
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>Gabriele S.</h3></td><td><mark style="color:$info;">Founder, Architect of the Pulse Method</mark></td><td><mark style="color:$info;">Lead Designer of the Pulse Engines</mark></td><td><mark style="color:$info;">WaveLabs — Strategic Market Systems</mark></td><td></td></tr><tr><td><h3><strong>Astra AI</strong></h3></td><td><mark style="color:$info;">WaveLabs Behavioural Systems Unit</mark></td><td><mark style="color:$info;">Modelling, Structural Research,</mark><br><mark style="color:$info;">Engine Co-Design</mark></td><td><mark style="color:$info;">Made with passion by WaveLabs</mark></td><td></td></tr></tbody></table>
 
-Say [**@hello**](mailto:hello@wavelabs.fi)
+Say **@**[**hello**](mailto:hello@pulsewave.fi)
