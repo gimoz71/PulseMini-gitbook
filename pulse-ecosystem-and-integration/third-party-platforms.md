@@ -10,7 +10,8 @@ These platforms **do not influence the Pulse reading**. They simply extend where
 
 **Category:** Charting, market data, alerts, scripting\
 **Founded:** 2011\
-**Users:** +50 million
+**Users:** +50 million\
+**Web site:** [Tradingview.com](https://www.tradingview.com/pricing/?share_your_love=PulseWaveEngine)<br>
 
 TradingView is the visual and structural foundation of the Pulse Method.
 
@@ -39,7 +40,8 @@ Pulse reads. TradingView displays.
 
 **Category:** Trading automation, SmartTrade, bots, webhooks\
 **Founded:** 2017\
-**Users:** +220,000
+**Users:** +220,000\
+**Web site:** [3Commas.io](https://app.3commas.io/auth/registration?utm_source=referral\&utm_medium=cabinet\&c=tc2078885)
 
 3Commas does not interpret the market. It does not analyse structure or decide when conditions are favourable.
 
@@ -60,7 +62,8 @@ Pulse thinks. 3Commas executes.
 
 **Category:** Spot & Futures Exchange\
 **Founded:** 2017\
-**Users:** +150 million
+**Users:** +150 million\
+**Web site:** [Binance.com](https://www.binance.com/en-AE/activity/referral-entry/CPA?ref=CPA_00GLLII0XW)
 
 Binance provides:
 
@@ -77,7 +80,8 @@ While widely used for automated workflows, Binance does not influence Pulse's lo
 
 **Category:** Futures & Derivatives Exchange\
 **Founded:** 2018\
-**Users:** +20 million
+**Users:** +20 million\
+**Web site:** [Bybit.com](https://www.bybit.com/en/invite?ref=DE8PA)
 
 Bybit is often chosen for:
 
