@@ -87,19 +87,3 @@ Higher timeframes create:
 * more reliable timing windows
 
 **Pulse Mini** becomes more expressive as noise decreases.
-
-***
-
-### TradingView Setup
-
-***
-
-### 3Commas Setup
-
-***
-
-### Exchanges Supported
-
-***
-
-### Requirements
